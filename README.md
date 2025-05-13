@@ -16,7 +16,7 @@ If I can source some relationship information I can play with some network analy
 
 Tables
 
-- [ ] Cast
+- [x] Cast
 - [ ] Episodes
 - [ ] Ratings
 - [ ] Relationships
