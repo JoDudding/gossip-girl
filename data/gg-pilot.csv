@@ -1,0 +1,601 @@
+line,line_no,line_type,character,direction,location,location_id
+NA,1,directions,NA,"Serena walks in, a girl watches her and takes a photo with her cell phone",INT GRAND CENTRAL STATION,1
+"Hey Upper East Siders, Gossip Girl here... and I have the biggest news ever. One of my many sources, Melanie91, sends us this: Spotted at Grand Central, bags in hand: Serena van der Woodsen. Was it only a year ago our It-Girl mysteriously disappeared for quote 'boarding school'? And just as suddenly she's back. Don't believe me? See for yourselves: Lucky for us, Melanie91 sent proof. Thanks for the photo, Mel!",2,voice over,Gossip Girl,NA,INT GRAND CENTRAL STATION,NA
+NA,3,directions,NA,"Rufus takes a look around the station and finds his son and daughter, he walks up and hugs them",INT GRAND CENTRAL STATION,NA
+"Dan, Jenny! Over here!!",4,lines,Rufus,NA,INT GRAND CENTRAL STATION,NA
+"Hey, dad!",5,lines,Jenny,NA,INT GRAND CENTRAL STATION,NA
+"Hey, hey! You made it. Welcome back! How was your weekend? was your mom?",6,lines,Rufus,NA,INT GRAND CENTRAL STATION,NA
+She's fine.,7,lines,Dan,NA,INT GRAND CENTRAL STATION,NA
+"Good... fine, I guess.",8,lines,Jenny,NA,INT GRAND CENTRAL STATION,NA
+She's good and fine.,9,lines,Dan,NA,INT GRAND CENTRAL STATION,NA
+Like 'Maybe I should never have left Manhatten' fine or 'Taking a time-out from my marriage was the best idea I've ever had' fine?,10,lines,Rufus,NA,INT GRAND CENTRAL STATION,NA
+"Dad, you know… I'm starving.",11,lines,Dan,NA,INT GRAND CENTRAL STATION,NA
+"Let's go home. I'm cooking. Caprese salad with a little mozzarella di Bufala... yeah, I'm gonna make you guys...",12,lines,Rufus,NA,INT GRAND CENTRAL STATION,NA
+NA,13,directions,NA,"Rufus puts an arms around Jenny and they walk off, Dan turns around and notices Serena",INT GRAND CENTRAL STATION,NA
+Spotted: Lonely Boy… can't believe the love of his life has returned. If only she knew who he was. But everyone knows Serena. And everyone is talking.,14,voice over,Gossip Girl,NA,INT GRAND CENTRAL STATION,NA
+NA,15,directions,NA,"Several people are standing in the streets, looking at the newest 'Gossip Girl' entry on their cell phones",EXT NEW YORK CITY,2
+"Wonder what Blair Waldorf thinks. Sure, they're BFFs but we always thought Blair's boyfriend Nate had a thing for Serena.",16,voice over,Gossip Girl,NA,EXT NEW YORK CITY,NA
+NA,17,directions,NA,"Blair takes a look at a new text message: 'Serena is Back!!', she leaves the bathroom and rejoins a party, her mother, Eleanor, is talking to a friend",INT HOME OF THE WALDORFS BATHROOM,3
+...I have to design a dress for this woman.,18,lines,Eleanor,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,19,directions,NA,Eleanor turns to Blair,INT HOME OF THE WALDORFS BATHROOM,NA
+"Blair, if you're gonna to wear one of my designs tell me about it so we can at least get it properly fitted.",20,lines,Eleanor,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,21,directions,NA,"Blair looks down at her outfit and grimaces at the slight jab at her weight, but doesn't let her mother know it.",INT HOME OF THE WALDORFS BATHROOM,NA
+"Thanks, mom. Keep that in mind. Great party.",22,lines,Blair,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,23,directions,NA,Eleanor turns back to her friend,INT HOME OF THE WALDORFS BATHROOM,NA
+She is my best advertisement.,24,lines,Eleanor,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,25,directions,NA,"Nate, his father, Howie, and another guest are standing together",INT HOME OF THE WALDORFS BATHROOM,NA
+"So, Nate, started thinking about college?",26,lines,Party Guest,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+"Well, actually I'm a Dartmouth man.",27,lines,Howie,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+"Yes, dad's always spoken very highly of Dartmouth. But I would like to check out west. You know, maybe USC, UCLA?",28,lines,Nate,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+His mother wouldn't hear of it. Dartmouth is far enough away for her.,29,lines,Howie,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+"Yes, well... Dartmouth is my first choice.",30,lines,Nate,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,31,directions,NA,"Blair walks up to her boyfriend, Nate, and his father, also called 'The Captain'",INT HOME OF THE WALDORFS BATHROOM,NA
+"Excuse me, Captain. Nate, can I borrow you?",32,lines,Blair,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+"Eh, sure. Excuse me for a second.",33,lines,Nate,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,34,directions,NA,"Chuck, a friend of Nate's is sitting on the couch with Isabel and Katy",INT HOME OF THE WALDORFS BATHROOM,NA
+"Nathaniel, any interest in some fresh air?",35,lines,Chuck,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,36,directions,NA,Chuck signals Nate that he wants to smoke a joint with him,INT HOME OF THE WALDORFS BATHROOM,NA
+When I get back?,37,lines,Nate,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+If he gets back!,38,lines,Blair,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,39,directions,NA,Blair leads Nate into her bedroom and pushes him onto the bed,INT HOME OF THE WALDORFS BATHROOM,NA
+What's going on?,40,lines,Nate,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+I wanna do this... It... Now.,41,lines,Blair,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+Now now? You wanted to wait...,42,lines,Nate,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+Not anymore.,43,lines,Blair,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+"Better lock it down with Nate, B. Clock's ticking.",44,voice over,Gossip Girl,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,45,directions,NA,"Chuck plays with his drink, looking bored, Isabel and Katy are reading their text mesages",INT HOME OF THE WALDORFS BATHROOM,NA
+"My god, you'll never believe what's on 'Gossip Girl'.",46,lines,Katy,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+Someone saw Serena get off a train at Grand Central.,47,lines,Isabel,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+"Good, things were getting a little… dull around here.",48,lines,Chuck,NA,INT HOME OF THE WALDORFS BATHROOM,NA
+NA,49,directions,NA,"The doorman opens the door of a town car, Serena gets out",EXT HOME OF THE WALDORFS,4
+Thank you.,50,lines,Serena,NA,EXT HOME OF THE WALDORFS,NA
+NA,51,directions,NA,"Blair and Nate are kissing on the bed, undressed",INT BLAIR'S BEDROOM,5
+"I love you. Nate Archibald. Always have, always will.",52,lines,Blair,NA,INT BLAIR'S BEDROOM,NA
+I love you too.,53,lines,Nate,NA,INT BLAIR'S BEDROOM,NA
+NA,54,directions,NA,Serena walks in and gets noticed by Eleanor,INT HOME OF THE WALDORFS,6
+Serena van der Woodsen? Is that you?,55,lines,Eleanor,NA,INT HOME OF THE WALDORFS,NA
+NA,56,directions,NA,Eleanor knocks on the door,INT HOME OF THE WALDORFS,NA
+"Blair, it's Serena!",57,lines,Eleanor,NA,INT HOME OF THE WALDORFS,NA
+Serena?,58,lines,Nate,NA,INT HOME OF THE WALDORFS,NA
+Serena is at school. Kiss me.,59,lines,Blair,NA,INT HOME OF THE WALDORFS,NA
+"No, I think I heard your mom say she's here. Don't you wanna go say hey?",60,lines,Nate,NA,INT HOME OF THE WALDORFS,NA
+NA,61,directions,NA,Nate gets of the bed and starts getting dressed,INT HOME OF THE WALDORFS,NA
+Yeah... totally.,62,lines,Blair,NA,INT HOME OF THE WALDORFS,NA
+NA,63,directions,NA,Serena is walking through the party guest who start talking behind her back,INT HOME OF THE WALDORFS,7
+...I heard she is pregnant... rehab... she looks good...,64,lines,Party Guests,NA,INT HOME OF THE WALDORFS,NA
+NA,65,directions,NA,"Serena walks up to her mother, Lily, who is talking to a friend",INT HOME OF THE WALDORFS,NA
+"So I told him: Forget it, I don't care if it's mahogany. It clashes with my sofa.",66,lines,Lily,NA,INT HOME OF THE WALDORFS,NA
+Mom… mom! Hey.,67,lines,Serena,NA,INT HOME OF THE WALDORFS,NA
+"Oh, Serena, darling.",68,lines,Lily,NA,INT HOME OF THE WALDORFS,NA
+NA,69,directions,NA,They hug each other,INT HOME OF THE WALDORFS,NA
+"So, were is he? What, they haven't let him out yet?",70,lines,Serena,NA,INT HOME OF THE WALDORFS,NA
+"Let's not discuss this right now, ok? I thought you might want to see some of your friends.",71,lines,Lily,NA,INT HOME OF THE WALDORFS,NA
+Thanks.,72,lines,Serena,NA,INT HOME OF THE WALDORFS,NA
+NA,73,directions,NA,"Serena notices Nate on the other side of the room, Blair opens her bedroom door and walks into the room, blocking Nate from Serena's view, Serena and Blair hug",INT HOME OF THE WALDORFS,NA
+"Hi, Serena, so good to see you.",74,lines,Blair,NA,INT HOME OF THE WALDORFS,NA
+Good to see you.,75,lines,Serena,NA,INT HOME OF THE WALDORFS,NA
+"Come, we're about to have dinner.",76,lines,Blair,NA,INT HOME OF THE WALDORFS,NA
+I'll set a place for you at the table next to Blair.,77,lines,Eleanor,NA,INT HOME OF THE WALDORFS,NA
+"Yeah, actually... there's somewhere I have to go.",78,lines,Serena,NA,INT HOME OF THE WALDORFS,NA
+You're leaving?,79,lines,Blair,NA,INT HOME OF THE WALDORFS,NA
+"Yeah, I just… I don't feel well. I just wanted to come by and say hi. I'll see you at school tomorrow.",80,lines,Serena,NA,INT HOME OF THE WALDORFS,NA
+NA,81,directions,NA,Serena leaves the party,INT HOME OF THE WALDORFS,NA
+School… so I guess she's back for good.,82,lines,Blair,NA,INT HOME OF THE WALDORFS,NA
+Didn't you know she was coming?,83,lines,Katy,NA,INT HOME OF THE WALDORFS,NA
+Course I did. I just… wanted it to be a surprise.,84,lines,Blair,NA,INT HOME OF THE WALDORFS,NA
+Word is that S bailed on B's party in under 90 seconds and didn't even have one lemochello. Has our bad girl really gone good? Or is it all just part of the act?,85,voice over,Gossip Girl,NA,INT HOME OF THE WALDORFS,NA
+NA,86,directions,NA,"Serena walks in, passes the nurse's station and looks into a patient's room",INT OSTROFF CENTER,8
+"Young lady, you can't be here. Visiting hours are over.",87,lines,Nurse,NA,INT OSTROFF CENTER,NA
+I'm family. He's my brother.,88,lines,Serena,NA,INT OSTROFF CENTER,NA
+NA,89,directions,NA,Dan is looking at the blog of 'Gossip Girl',INT DAN'S BEDROOM,9
+Why'd she leave? Why'd she return? Send me all the deets. And who am I? That's one secret I'll never tell. you know you love me. XOXO Gossip Girl.,90,voice over,Gossip Girl,NA,INT DAN'S BEDROOM,NA
+NA,91,directions,NA,"Serena's brother, Erik, finds Serena sleeping on a chair next to his bed and wakes her up",INT ERIK'S BEDROOM,10
+"Serena... Serena, hey.",92,lines,Erik,NA,INT ERIK'S BEDROOM,NA
+"Hey, how are you?",93,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+"You know, I've been better.",94,lines,Erik,NA,INT ERIK'S BEDROOM,NA
+"Erik, I know I've been a terrible sister. I'm so happy to see you.",95,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+Must be a lot of rumours why you're back.,96,lines,Erik,NA,INT ERIK'S BEDROOM,NA
+"Yeah, but none of them mentioned you.",97,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+"Just like mom wants, hm?",98,lines,Erik,NA,INT ERIK'S BEDROOM,NA
+NA,99,directions,NA,Lily enters,INT ERIK'S BEDROOM,NA
+"What do I want, baby? For Serena sleeping in her own bed, possibly wearing pajamas.",100,lines,Lily,NA,INT ERIK'S BEDROOM,NA
+"Morning, mom. Hey, I was just about to ask the doctor if I could take Erik to breakfast. Wanna come?",101,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+"Ehm, I think what I'll do is to get him a croissant down the street.",102,lines,Lily,NA,INT ERIK'S BEDROOM,NA
+NA,103,directions,NA,"Lily leaves the room, Serena storms after her",INT ERIK'S BEDROOM,NA
+"Serena, don't!",104,lines,Erik,NA,INT ERIK'S BEDROOM,NA
+Let me guess: You told everyone Erik is just visiting grandpa in Rhode Island.,105,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+Your aunt Carol in Miami.,106,lines,Lily,NA,INT ERIK'S BEDROOM,NA
+"So, you're actually hiding him. He tries to take his own life and you're worried it will cost you 'Mom Of The Year'?",107,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+"Serena, you've been gone. Doing who knows what with god knows who...",108,lines,Lily,NA,INT ERIK'S BEDROOM,NA
+"I told you, boarding school was not like that.",109,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+"As happy as I am to have you home, you have no idea what it's been like.",110,lines,Lily,NA,INT ERIK'S BEDROOM,NA
+NA,111,directions,NA,"Jenny organizes handwritten invitations, Rufus is making breakfast, Dan walks in",INT HOME OF THE HUMPHREYS KITCHEN,11
+Guess who's dad is cool!,112,lines,Rufus,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+It's a trick question.,113,lines,Jenny,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+"Yeah, 'cause it can't be ours.",114,lines,Dan,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+Look at this!,115,lines,Rufus,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+NA,116,directions,NA,"Rufus hands Dan an issue of 'Rolling Stone', Dan reads the front page",INT HOME OF THE HUMPHREYS KITCHEN,NA
+'Top 10 Forgotten Bands Of The '90s'.,117,lines,Dan,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+"Yeah, check out who's number nine.",118,lines,Rufus,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+He is very proud.,119,lines,Jenny,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+"Hey, hey way to be forgotten!",120,lines,Dan,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+But that's how you get remembered.,121,lines,Rufus,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+Maybe you'd care if dad's band was on 'Gossip Girl'.,122,lines,Jenny,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+What? I don't read 'Gossip Girl'. That's... that's for chicks.,123,lines,Dan,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+So that wasn't your laptop you've been to last night to read all about Serena van der Woodsen.,124,lines,Jenny,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+NA,125,directions,NA,Dan takes the magazine from Rufus,INT HOME OF THE HUMPHREYS KITCHEN,NA
+"Holy stone, wow! Let me take a look at this again, dad. Very cool, looking hot, number nine!",126,lines,Dan,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+"Hey, what are you working on?",127,lines,Rufus,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+It's called the 'Kiss On The Lips' party. Everyone's going.,128,lines,Jenny,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+You're invited to that?,129,lines,Dan,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+NA,130,directions,NA,Jenny stares at Dan,INT HOME OF THE HUMPHREYS KITCHEN,NA
+"Well, no offense if I sound surprised... since I've never been invited.",131,lines,Dan,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+"One of the girls in my art class saw my calligraphy, and she said that if I addressed all the invitations that I got one.",132,lines,Jenny,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+Sounds very fair. Sweatshops could learn a thing or two.,133,lines,Rufus,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+"Dad, this is not a platform for me to end capitalization. That's why you make us go to private schools.",134,lines,Jenny,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+That's for your education.,135,lines,Rufus,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+So we should be anonymous losers who eat lunch alone and never get invited to parties?,136,lines,Jenny,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+Works for me.,137,lines,Dan,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+Mom thinks it's a good idea.,138,lines,Jenny,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+"And her judgment is always sound, right? Jenny, if you wanna go to that party you should go. You kids could use some fun.",139,lines,Rufus,NA,INT HOME OF THE HUMPHREYS KITCHEN,NA
+NA,140,directions,NA,"Serena walks up to the front entrance, Nate is already waiting for her",EXT THE PALACE HOTEL,12
+Nate?,141,lines,Serena,NA,EXT THE PALACE HOTEL,NA
+"Oh, hey! Uhm, your mom told me you guys are staying here at The Palace.",142,lines,Nate,NA,EXT THE PALACE HOTEL,NA
+"Yeah, we're renovating... again. You know my mom: If it's not broke, break it. So what are you doing here?",143,lines,Serena,NA,EXT THE PALACE HOTEL,NA
+"Oh, I just wanted to see how you were. You seemed kind of upset last night.",144,lines,Nate,NA,EXT THE PALACE HOTEL,NA
+I got to get going and change for school. I'm gonna be late.,145,lines,Serena,NA,EXT THE PALACE HOTEL,NA
+Serena...,146,lines,Nate,NA,EXT THE PALACE HOTEL,NA
+"No, no.",147,lines,Serena,NA,EXT THE PALACE HOTEL,NA
+But you're back now.,148,lines,Nate,NA,EXT THE PALACE HOTEL,NA
+"I didn't come back for you. Look, Blair's my best friend and you're her boyfriend, and she loves you. That's the way things are supposed to be.",149,lines,Serena,NA,EXT THE PALACE HOTEL,NA
+NA,150,directions,NA,Dan runs across the street to catch his bus to school,EXT NEW YORK CITY,13
+"Hey, watch were you're going!",151,lines,Taxi Driver,NA,EXT NEW YORK CITY,NA
+NA,152,directions,NA,"Chuck and Nate are sitting next to each other, Dan is standing in the alley",INT BUS,14
+Serena looked effing hot last night. There's something wrong with that level of perfection... it needs to be violated.,153,lines,Chuck,NA,INT BUS,NA
+You are deeply disturbed.,154,lines,Nate,NA,INT BUS,NA
+And yet you know I'm right. You're telling me if you had the chance...,155,lines,Chuck,NA,INT BUS,NA
+I have a girlfriend.,156,lines,Nate,NA,INT BUS,NA
+You guys have been dating since kindergarten and you haven't sealed the deal.,157,lines,Chuck,NA,INT BUS,NA
+Who says 'seal the seal'?,158,lines,Nate,NA,INT BUS,NA
+NA,159,directions,NA,Chuck signals Nate that they have arrived at school,INT BUS,NA
+Come on.,160,lines,Chuck,NA,INT BUS,NA
+NA,161,directions,NA,"They get up, Dan is standing behind them, Chuck turns to Dan",INT BUS,NA
+You following us or something?,162,lines,Chuck,NA,INT BUS,NA
+"No, I... I go to your school. Identical uniforms, that's kind of a tip-off?",163,lines,Dan,NA,INT BUS,NA
+That's funny.,164,lines,Nate,NA,INT BUS,NA
+NA,165,directions,NA,"Chuck and Nate leave the bus, Dan talks to himself",INT BUS,NA
+So you guys wanna sit together at lunch?,166,lines,Dan,NA,INT BUS,NA
+NA,167,directions,NA,"Blair, Isabel, and Katy are sitting on the steps looking at the invitations. Jenny is standing next to them",EXT MET,15
+So cute! They should be framed or something.,168,lines,Isabel,NA,EXT MET,NA
+Not bad work. And here is yours... as promised.,169,lines,Blair,NA,EXT MET,NA
+NA,170,directions,NA,Blair hands Jenny one of the invitations,EXT MET,NA
+Thanks.,171,lines,Jenny,NA,EXT MET,NA
+NA,172,directions,NA,"Serena walks up to them, eating yoghurt",EXT MET,NA
+"Hey, here you guys are. I looked all over the dining hall for you.",173,lines,Serena,NA,EXT MET,NA
+NA,174,directions,NA,Serena notices Jenny and shakes her hand,EXT MET,NA
+"Oh, hi, I'm Serena.",175,lines,Serena,NA,EXT MET,NA
+"I know, uhm, I mean, hi, I'm Jenny.",176,lines,Jenny,NA,EXT MET,NA
+NA,177,directions,NA,Serena picks up one of the invitations,EXT MET,NA
+"So, when's the party?",178,lines,Serena,NA,EXT MET,NA
+Saturday. And you're kinda not invited. Since until 12 hours ago everyone thought you were at boarding school. And Jenny used up all the invites.,179,lines,Blair,NA,EXT MET,NA
+"Uhm, actually...",180,lines,Jenny,NA,EXT MET,NA
+You can go now.,181,lines,Blair,NA,EXT MET,NA
+NA,182,directions,NA,Jenny leaves,EXT MET,NA
+Sorry.,183,lines,Blair,NA,EXT MET,NA
+"No, it's ok. I've got a lot of stuff to do anyway.",184,lines,Serena,NA,EXT MET,NA
+NA,185,directions,NA,Serena throws the invitation onto the steps,EXT MET,NA
+"Well, we should get going then. Unless you want us to wait for you. Looks like you got a lot of yoghurt left.",186,lines,Blair,NA,EXT MET,NA
+"No, go ahead.",187,lines,Serena,NA,EXT MET,NA
+NA,188,directions,NA,"Blair, Isabel, and Katy walk away. Serena turns around",EXT MET,NA
+"Blair, think we can meet tonight?",189,lines,Serena,NA,EXT MET,NA
+"I'd love to, but I'm doing something with Nate tonight.",190,lines,Blair,NA,EXT MET,NA
+"The Palace, 8 o'clock. Nate will wait.",191,lines,Serena,NA,EXT MET,NA
+"Spotted: At the steps of the Met, an S and B power struggle.",192,voice over,Gossip Girl,NA,EXT MET,NA
+I can probably do a half hour.,193,lines,Blair,NA,EXT MET,NA
+Did S think she could waltz home and things would be just like they were?,194,voice over,Gossip Girl,NA,EXT MET,NA
+Thanks for making the time.,195,lines,Serena,NA,EXT MET,NA
+You're my best friend.,196,lines,Blair,NA,EXT MET,NA
+Did B think S would go down without a fight? Or can these two hotties work it out? There's nothing 'Gossip Girl' likes more than a good catfight. And this could be a classic.,197,voice over,Gossip Girl,NA,EXT MET,NA
+NA,198,directions,NA,"Rufus is putting up flyers for a concert of his band 'Lincoln Hawk', Dan is with him",EXT NEW YORK CITY,16
+"Uh, you know... you know, dad, there's this thing called 'myspace' where you post all this information online. Save some trees, have a blog.",199,lines,Dan,NA,EXT NEW YORK CITY,NA
+Maybe if musicians would get off their blogs and picked up their guitars then music business would be in better shape.,200,lines,Rufus,NA,EXT NEW YORK CITY,NA
+"Ok, like a true relic.",201,lines,Dan,NA,EXT NEW YORK CITY,NA
+"Thanks, son.",202,lines,Rufus,NA,EXT NEW YORK CITY,NA
+NA,203,directions,NA,"Dan's cell phone rings, he takes a look at the new text message: Jenny (Mobile), Sep 24, 2007, 3:15:23 PM, HELP: EMERGENCY. 712 5TH AVE.",EXT NEW YORK CITY,NA
+"Hey, dad, listen, uhm, I got to run. You'll be ok?",204,lines,Dan,NA,EXT NEW YORK CITY,NA
+Yeah. You'll mom will be back. She's always been a free spirit. That's one of the reasons I fell for her in the first place.,205,lines,Rufus,NA,EXT NEW YORK CITY,NA
+I meant with the flyers.,206,lines,Dan,NA,EXT NEW YORK CITY,NA
+"Luckily, staple guns are old-school. Go, I'm gonna be fine.",207,lines,Rufus,NA,EXT NEW YORK CITY,NA
+NA,208,directions,NA,Serena walks in,INT ERIK'S BEDROOM,17
+I talked to the nurse and I'm kidnapping you.,209,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+"We're going shopping, aren't we.",210,lines,Erik,NA,INT ERIK'S BEDROOM,NA
+"We're going to Wendells... just for an hour though, I swear. I had a really bad day.",211,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+"Really? 'Cause I had a great day: A couple of pills, bunch of Rorschach tests... they had this green jelly for lunch.",212,lines,Erik,NA,INT ERIK'S BEDROOM,NA
+"Mmh, yummy! Why didn't you save me any? Come on, we need to get you out of here before mom shows up.",213,lines,Serena,NA,INT ERIK'S BEDROOM,NA
+NA,214,directions,NA,Dan walks up to Jenny who's trying on a red dress,INT WENDELLS DEPARTMENT STORE,18
+"Jenny, what is it? What is wrong?",215,lines,Dan,NA,INT WENDELLS DEPARTMENT STORE,NA
+Do you like this on me?,216,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+"Wait... wait a second, is that why you needed me? I thought this was an emergency.",217,lines,Dan,NA,INT WENDELLS DEPARTMENT STORE,NA
+"A fashion emergency. I mean, come on, I've never been to a big dance before.",218,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+Neither have I.,219,lines,Dan,NA,INT WENDELLS DEPARTMENT STORE,NA
+"Yeah, but mom's gone and dad's allergic to department stores.",220,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+"Well, you look good, Jen. You do, really.",221,lines,Dan,NA,INT WENDELLS DEPARTMENT STORE,NA
+"Thanks. I'm mean, too bad it's more than our rent but I think I can sew something like it.",222,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+NA,223,directions,NA,Jenny notices Serena and Erik walking towards them,INT WENDELLS DEPARTMENT STORE,NA
+"Oh my gosh, it's Serena. Hi, Serena!",224,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+NA,225,directions,NA,"Jenny takes an invitation adressed to 'Serena van der Woodsen' out of her bag, Dan panics and vanishes",INT WENDELLS DEPARTMENT STORE,NA
+"Hey. Hey, Jenny, right?",226,lines,Serena,NA,INT WENDELLS DEPARTMENT STORE,NA
+Yeah.,227,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+This is my...,228,lines,Serena,NA,INT WENDELLS DEPARTMENT STORE,NA
+"Stylist and personal shopper. Erik, hi.",229,lines,Erik,NA,INT WENDELLS DEPARTMENT STORE,NA
+"Hi, uhm, this is my brother... or...",230,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+NA,231,directions,NA,"Jenny gestures behind her, notices Dan is gone, Dan is hiding behind a rack of dresses, watching Serena",INT WENDELLS DEPARTMENT STORE,NA
+So is this your dress for the 'Kiss On The Lips' party?,232,lines,Serena,NA,INT WENDELLS DEPARTMENT STORE,NA
+Sort of. Speaking of that.,233,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+NA,234,directions,NA,Jenny gives Serena the invitation,INT WENDELLS DEPARTMENT STORE,NA
+"Here, I made you one during free period but anyone asks where you got it, I know nothing.",235,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+Thanks.,236,lines,Serena,NA,INT WENDELLS DEPARTMENT STORE,NA
+NA,237,directions,NA,Serena and Erik walk away,INT WENDELLS DEPARTMENT STORE,NA
+"Dan, Dan?",238,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+NA,239,directions,NA,Serena turns around,INT WENDELLS DEPARTMENT STORE,NA
+"Jenny, that dress would look even better in black.",240,lines,Serena,NA,INT WENDELLS DEPARTMENT STORE,NA
+Black. Cool. Thanks.,241,lines,Jenny,NA,INT WENDELLS DEPARTMENT STORE,NA
+NA,242,directions,NA,"Chuck and Nate are taking a walk, smoking a Joint",EXT NEW YORK PARK,19
+This is some good stuff.,243,lines,Chuck,NA,EXT NEW YORK PARK,NA
+"Yeah, I'm gonna need it. Blair's mom's at the country house.",244,lines,Nate,NA,EXT NEW YORK PARK,NA
+"Yeah? Then maybe I should swipe some of my dad's viagra? Or my mom's paxils? Nathaniel, you're finally about to have sex with your girlfriend. It's like you're heading to your execution.",245,lines,Chuck,NA,EXT NEW YORK PARK,NA
+"No, man. I'm good.",246,lines,Nate,NA,EXT NEW YORK PARK,NA
+"Talk to Chuck, buddy. You and Blair have been dating forever, all of a sudden there is a problem?",247,lines,Chuck,NA,EXT NEW YORK PARK,NA
+There is no problem. It's just... do you ever feel like our whole lives have been planned out for us? That we're just gonna... end up like our parents?,248,lines,Nate,NA,EXT NEW YORK PARK,NA
+"Man, that's a dark thought.",249,lines,Chuck,NA,EXT NEW YORK PARK,NA
+"You know, aren't we entitled to choose... just to be happy?",250,lines,Nate,NA,EXT NEW YORK PARK,NA
+"Look, easy, Socrates. What we're entitled to is a trust fund... maybe a house in the Hamptons, a prescription drug problem. Happiness does not seem to be on the menu. So smoke up and seal the deal with Blair... 'cause you're also entitled to tab that ass.",251,lines,Chuck,NA,EXT NEW YORK PARK,NA
+NA,252,directions,NA,"Serena and Blair are sitting at the bar, Blair is drinking a Martini",INT THE PALACE HOTEL BAR,20
+"So, how's your mom doing... with the divorce and everything?",253,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+"Great. So my dad left her for another man. She's lost 15 pounds, got an eye-lift. It's been good for her.",254,lines,Blair,NA,INT THE PALACE HOTEL BAR,NA
+I'm really sorry.,255,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+"Yeah, I could tell since you didn't call or write the entire time it was happening.",256,lines,Blair,NA,INT THE PALACE HOTEL BAR,NA
+"No, I know... I was just... boarding school... it's like...",257,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+"I don't even know why you went to boarding school to begin with. Do you know how it felt, calling your house when you didn't show up at school and having your mom say: Serena didn't tell you that she moved to Connecticut?",258,lines,Blair,NA,INT THE PALACE HOTEL BAR,NA
+I just... I had to go. I needed to get away from everything. Please just trust me.,259,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+How can I trust you when I feel like I don't even know you.,260,lines,Blair,NA,INT THE PALACE HOTEL BAR,NA
+Let's fix that. I saw you at school with Katy and Is and I get it. I don't want to take any of that away from you. I just...,261,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+Because it's just yours to take if you want it?,262,lines,Blair,NA,INT THE PALACE HOTEL BAR,NA
+"No, that's not what I mean. I... I miss you. I just want things to go back to the way they used to be. You know, walking to school togheter, dancing on tables at Bungalow, the nights when we were at your mom's country house. You were like my sister... and with our families... we need each other.",263,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+"Well, you missed some classic Eleanor Waldorf melt-downs. If it wasn't such a tragedy it would have been funny. Actually kinda was.",264,lines,Blair,NA,INT THE PALACE HOTEL BAR,NA
+"Well, I wish I could have been there.",265,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+You are now. I have to meet Nate. I kind of have something special and...,266,lines,Blair,NA,INT THE PALACE HOTEL BAR,NA
+"Well, I don't want to keep you but...",267,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+NA,268,directions,NA,Serena hugs Blair,INT THE PALACE HOTEL BAR,NA
+"I love you, B.",269,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+"I love you too, S.",270,lines,Blair,NA,INT THE PALACE HOTEL BAR,NA
+NA,271,directions,NA,Blair leaves,INT THE PALACE HOTEL BAR,NA
+"Spotted: At The Palace Hotel, S and B having a heart to heart.",272,voice over,Gossip Girl,NA,INT THE PALACE HOTEL BAR,NA
+NA,273,directions,NA,Serena takes Blair's left over Martini and empties it in one gulp,INT THE PALACE HOTEL BAR,NA
+"Hmm, why so thirsty, S? You may have won over B for now but we still think you're hiding something.",274,voice over,Gossip Girl,NA,INT THE PALACE HOTEL BAR,NA
+NA,275,directions,NA,"Jenny is sitting at the sewing machine, Dan enters",INT JENNY'S BEDROOM,21
+Hey!,276,lines,Dan,NA,INT JENNY'S BEDROOM,NA
+"Ah, the invisible man returns. You know, I really had no idea you could move that fast.",277,lines,Jenny,NA,INT JENNY'S BEDROOM,NA
+"Yeah, well, your fashion emergency was solved, so... I figured my work was done.",278,lines,Dan,NA,INT JENNY'S BEDROOM,NA
+"Come on, Dan. Serena said hi to you at her 9th grade birthday party and you've never forgotten it.",279,lines,Jenny,NA,INT JENNY'S BEDROOM,NA
+How could I? She was the only person who spoke to me. And I'm pretty sure she thought I was someone else.,280,lines,Dan,NA,INT JENNY'S BEDROOM,NA
+"Well, you know, she is actually nice. And if she did know you I think she would really like you.",281,lines,Jenny,NA,INT JENNY'S BEDROOM,NA
+"I don't know, I think she would be a tad overwhelmed by the glitz and the glamour of the Humphrey lifestyle.",282,lines,Dan,NA,INT JENNY'S BEDROOM,NA
+"Well, I heard she's living at The Palace Hotel.",283,lines,Jenny,NA,INT JENNY'S BEDROOM,NA
+"Well, my point exactly.",284,lines,Dan,NA,INT JENNY'S BEDROOM,NA
+"Probably sitting at the bar by herself, sipping Martinis... all alone. You know, it's actually kinda sad. Oh, and dad's at the gallery working late. He left money for dinner, so I was thinking Indian.",285,lines,Jenny,NA,INT JENNY'S BEDROOM,NA
+"You know... you know what, I think I'm... I'm gonna go out.",286,lines,Dan,NA,INT JENNY'S BEDROOM,NA
+NA,287,directions,NA,Dan leaves,INT JENNY'S BEDROOM,NA
+"Ok... good, 'cause I already ordered and only got enough for one.",288,lines,Jenny,NA,INT JENNY'S BEDROOM,NA
+NA,289,directions,NA,"Chuck enters, shoves some women aside",INT THE PALACE HOTEL BAR,22
+"Hello, please.",290,lines,Chuck,NA,INT THE PALACE HOTEL BAR,NA
+NA,291,directions,NA,Chuck walks over to Serena who is having another Martini,INT THE PALACE HOTEL BAR,NA
+I love this town. I'm going to have to tell my parents the hotel they just bought is serving minors.,292,lines,Chuck,NA,INT THE PALACE HOTEL BAR,NA
+And if you get a drink they are also serving pigs.,293,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+I love it when you talk dirty.,294,lines,Chuck,NA,INT THE PALACE HOTEL BAR,NA
+You just love when a girl talks to you.,295,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+"Actually, I prefer them when they're not talking.",296,lines,Chuck,NA,INT THE PALACE HOTEL BAR,NA
+"Oh, I've missed your witty banter.",297,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+"Let's catch up. Take our clothes off, stare at each other.",298,lines,Chuck,NA,INT THE PALACE HOTEL BAR,NA
+What about I just get a bit to eat. I've been drinking on an empty stomach.,299,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+I heard you didn't do that anymore.,300,lines,Chuck,NA,INT THE PALACE HOTEL BAR,NA
+Special occasion.,301,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+"Well, what about a grilled cheese with truffle oil? You do love truffels?",302,lines,Chuck,NA,INT THE PALACE HOTEL BAR,NA
+Enough to know it's not on the menue.,303,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+But then I'm connected.,304,lines,Chuck,NA,INT THE PALACE HOTEL BAR,NA
+Only because I'm hungry.,305,lines,Serena,NA,INT THE PALACE HOTEL BAR,NA
+NA,306,directions,NA,"The room is lit by candles, Nate enters, Blair is waiting for him in lingerie",INT BLAIR'S BEDROOM,23
+Wow.,307,lines,Nate,NA,INT BLAIR'S BEDROOM,NA
+Hi.,308,lines,Blair,NA,INT BLAIR'S BEDROOM,NA
+Hi.,309,lines,Nate,NA,INT BLAIR'S BEDROOM,NA
+Is it too much? I wanted it to be special.,310,lines,Blair,NA,INT BLAIR'S BEDROOM,NA
+NA,311,directions,NA,Blair kisses Nate but he pulls away,INT BLAIR'S BEDROOM,NA
+What's wrong?,312,lines,Blair,NA,INT BLAIR'S BEDROOM,NA
+"Look, I don't know how to say this... or if it's even the right thing to do but ehm... there's something I need to tell you.",313,lines,Nate,NA,INT BLAIR'S BEDROOM,NA
+NA,314,directions,NA,"Chuck puts a bundle of Dollar bills into the jacket of the chef, Alfonso and his staff leave",INT THE PALACE HOTEL KITCHEN,24
+"Alfonso, you're stud. Now have good night, we're closing the kitchen early.",315,lines,Chuck,NA,INT THE PALACE HOTEL KITCHEN,NA
+"Oh my god, this is so good.",316,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+"Well, if you're looking for a way to thank me I've got a couple ideas.",317,lines,Chuck,NA,INT THE PALACE HOTEL KITCHEN,NA
+"It's a sandwich, Chuck.",318,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+NA,319,directions,NA,Chuck touches Serena's thigh and leans in on her,INT THE PALACE HOTEL KITCHEN,NA
+This is... this is not happening right now.,320,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+You're worried Nate will find out?,321,lines,Chuck,NA,INT THE PALACE HOTEL KITCHEN,NA
+What?,322,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+Last year... the Sheperd wedding... think I don't know why you left town?,323,lines,Chuck,NA,INT THE PALACE HOTEL KITCHEN,NA
+NA,324,directions,NA,"FLASHBACK - ONE YEAR AGO - INT BAR - Serena is dancing on the bar, holding a bottle of champagne, Nate tries to stop her",INT THE PALACE HOTEL KITCHEN,NA
+"Serena, you are not supposed to be here.",325,lines,Nate,NA,INT THE PALACE HOTEL KITCHEN,NA
+"Oh well, if the happy couple didn't want to put up a catch for the bar they should let me be where I want to be. Move!",326,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+Let me see it!,327,lines,Nate,NA,INT THE PALACE HOTEL KITCHEN,NA
+"No, make me!",328,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+"I can do it, I can open it. Let me show you... here, come here. Let me see...",329,lines,Nate,NA,INT THE PALACE HOTEL KITCHEN,NA
+No!,330,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+Let me... stop?,331,lines,Nate,NA,INT THE PALACE HOTEL KITCHEN,NA
+NA,332,directions,NA,They both pull on the bottle until it opens with a loud bang,INT THE PALACE HOTEL KITCHEN,NA
+Nate!,333,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+That never happens to me.,334,lines,Nate,NA,INT THE PALACE HOTEL KITCHEN,NA
+"It's ok. You're stronger than me, alright.",335,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+Come here.,336,lines,Nate,NA,INT THE PALACE HOTEL KITCHEN,NA
+"Look at you, you're a mess.",337,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+So are you.,338,lines,Nate,NA,INT THE PALACE HOTEL KITCHEN,NA
+NA,339,directions,NA,Serena and Nate are about to kiss,INT THE PALACE HOTEL KITCHEN,NA
+NA,340,directions,NA,Nate turns his face away from Blair,INT BLAIR'S BEDROOM,25
+But... that was it... you guys kissed.,341,lines,Blair,NA,INT BLAIR'S BEDROOM,NA
+NA,342,directions,NA,Nate shakes his head,INT BLAIR'S BEDROOM,NA
+NA,343,directions,NA,"FLASHBACK - ONE YEAR AGO - INT BAR - Serena and Nate make out heavily, undressing each other, Chuck watches from the balcony",INT BLAIR'S BEDROOM,NA
+NA,344,directions,NA,,INT THE PALACE HOTEL KITCHEN,26
+"Best friend and the boyfriend. That's pretty classy, S. I think you're more like me than you admit.",345,lines,Chuck,NA,INT THE PALACE HOTEL KITCHEN,NA
+"No, no, that... that was then. I'm trying to change.",346,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+I liked you better before.,347,lines,Chuck,NA,INT THE PALACE HOTEL KITCHEN,NA
+NA,348,directions,NA,"Chuck tries to kiss Serena, she pushes him away",INT THE PALACE HOTEL KITCHEN,NA
+Stop it. Stop! No! Stop it!,349,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+NA,350,directions,NA,"FLASHBACK - ONE YEAR AGO - INT BAR - Serena and Nate are having sex, Serena is gasping loudly",INT THE PALACE HOTEL KITCHEN,NA
+NA,351,directions,NA,Blair pushes Nate away,INT BLAIR'S BEDROOM,27
+I knew it! I always knew there was something! Get out!,352,lines,Blair,NA,INT BLAIR'S BEDROOM,NA
+NA,353,directions,NA,"FLASHBACK - ONE YEAR AGO - INT BAR - Serena is sitting on top of Nate, riding him",INT BLAIR'S BEDROOM,NA
+NA,354,directions,NA,Chuck violenty tries to kiss Serena,INT THE PALACE HOTEL KITCHEN,28
+"Chuck, no!",355,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+NA,356,directions,NA,FLASHBACK - ONE YEAR AGO - INT BAR - Serena and Nate make out heavily,INT THE PALACE HOTEL KITCHEN,NA
+NA,357,directions,NA,Blair falls onto her bed and starts crying,INT BLAIR'S BEDROOM,29
+NA,358,directions,NA,FLASHBACK - ONE YEAR AGO - INT BAR - Nate kisses Serena's breasts,INT BLAIR'S BEDROOM,NA
+NA,359,directions,NA,Blair cries,INT BLAIR'S BEDROOM,30
+NA,360,directions,NA,Chuck is still trying to kiss Serena,INT THE PALACE HOTEL KITCHEN,31
+Get off of me!,361,lines,Serena,NA,INT THE PALACE HOTEL KITCHEN,NA
+NA,362,directions,NA,Serena kicks Chuck between the legs and storms off,INT THE PALACE HOTEL KITCHEN,NA
+NA,363,directions,NA,"Dan looks around the bar for Serena, she enters the bar and crashes into him, her purse flies to the ground, Dan helps her to pick up her things",INT THE PALACE HOTEL BAR,32
+"I'm... so sorry, Are you ok?",364,lines,Dan,NA,INT THE PALACE HOTEL BAR,NA
+NA,365,directions,NA,"Serena takes her purse and runs off, Dan finds her cell phone on the floor and tries to tell Serena but she is already gone",INT THE PALACE HOTEL BAR,NA
+And just when B and S had built a bridge... it all had to come crashing down. But dry your eyes: the 'Kiss On The Lips' party is around the corner. And you know who loves parties? Gossip Girl.,366,voice over,Gossip Girl,NA,INT THE PALACE HOTEL BAR,NA
+NA,367,directions,NA,"Nate and his father are having a race, Howie wins",EXT NEW YORK PARK,33
+"Nice try, son.",368,lines,Howie,NA,EXT NEW YORK PARK,NA
+Maybe next time.,369,lines,Nate,NA,EXT NEW YORK PARK,NA
+You seem upbeat this morning. Did you have fun with Blair last night?,370,lines,Howie,NA,EXT NEW YORK PARK,NA
+"Actually, we got into a pretty big fight.",371,lines,Nate,NA,EXT NEW YORK PARK,NA
+"You want my advice? Apologise. Even if it was her fault. Flowers, maybe some jewellery if she's really upset. Always works for your mother.",372,lines,Howie,NA,EXT NEW YORK PARK,NA
+I don't know. I think it may be for the best.,373,lines,Nate,NA,EXT NEW YORK PARK,NA
+"Wait a minute, you guys broke up?",374,lines,Howie,NA,EXT NEW YORK PARK,NA
+"Yeah, I guess we did.",375,lines,Nate,NA,EXT NEW YORK PARK,NA
+Blair is a great girl.,376,lines,Howie,NA,EXT NEW YORK PARK,NA
+I know. But I'm just not sure if she's the girl for me.,377,lines,Nate,NA,EXT NEW YORK PARK,NA
+But you guys have been dating since kindergarden.,378,lines,Howie,NA,EXT NEW YORK PARK,NA
+So I keep hearing.,379,lines,Nate,NA,EXT NEW YORK PARK,NA
+"I mean, you love her, don't you?",380,lines,Howie,NA,EXT NEW YORK PARK,NA
+"Yes, I do. I just think it might be good for us to take a break, you know.",381,lines,Nate,NA,EXT NEW YORK PARK,NA
+Maybe not right now. Eleanor Waldorf is gearing up to take her company public and I've been cording her for month to let me handle the deal.,382,lines,Howie,NA,EXT NEW YORK PARK,NA
+Then you should get it.,383,lines,Nate,NA,EXT NEW YORK PARK,NA
+I will get it... if you just help me out a little bit.,384,lines,Howie,NA,EXT NEW YORK PARK,NA
+NA,385,directions,NA,Nate looks at his father in disbelief,EXT NEW YORK PARK,NA
+"What? You love her, she loves you. It's just a rough patch, that's all. You don't give up just because things are hard. Not in business or if your family is depending on you.",386,lines,Howie,NA,EXT NEW YORK PARK,NA
+NA,387,directions,NA,Dan is standing at the reception talking to the Concierge who is holding Serena's cell phone,INT THE PALACE HOTEL,34
+How did you know it was Miss van der Woodsen if you didn't read it and if you are not a guest at the hotel what were you doing there?,388,lines,Concierge,NA,INT THE PALACE HOTEL,NA
+"What? Uhm, look, when Prince Charming found Cinderella's slipper they didn't accuse him of having a foot-fetish.",389,lines,Dan,NA,INT THE PALACE HOTEL,NA
+"And you are Prince Charming? Well, there is Miss van der Woodsen now...",390,lines,Concierge,NA,INT THE PALACE HOTEL,NA
+"No, no, no, no...",391,lines,Dan,NA,INT THE PALACE HOTEL,NA
+Serena!,392,lines,Concierge,NA,INT THE PALACE HOTEL,NA
+NA,393,directions,NA,Serena turns around and walks over to the reception,INT THE PALACE HOTEL,NA
+"Don't, don't...",394,lines,Dan,NA,INT THE PALACE HOTEL,NA
+Do you know this young man?,395,lines,Concierge,NA,INT THE PALACE HOTEL,NA
+"She doesn't know me. Nobody knows me. It's cool, it's fine.",396,lines,Dan,NA,INT THE PALACE HOTEL,NA
+"Uhm, from last night, right? I'm sorry about that.",397,lines,Serena,NA,INT THE PALACE HOTEL,NA
+You remember me?,398,lines,Dan,NA,INT THE PALACE HOTEL,NA
+NA,399,directions,NA,Dan turns back to the Concierge,INT THE PALACE HOTEL,NA
+She remembers me.,400,lines,Dan,NA,INT THE PALACE HOTEL,NA
+"Well, he claims he found your cell phone.",401,lines,Concierge,NA,INT THE PALACE HOTEL,NA
+"Oh, you found it.",402,lines,Serena,NA,INT THE PALACE HOTEL,NA
+NA,403,directions,NA,"Lily walks over, carrying a cloth bag",INT THE PALACE HOTEL,NA
+"Hey, mom.",404,lines,Serena,NA,INT THE PALACE HOTEL,NA
+Guess what I found for you... a dress for 'Kiss On The Lips'. I saw the invitation on the nightstand.,405,lines,Lily,NA,INT THE PALACE HOTEL,NA
+"Oh, uhm, I'm not going to that.",406,lines,Serena,NA,INT THE PALACE HOTEL,NA
+What do you mean? Blair's throwing it.,407,lines,Lily,NA,INT THE PALACE HOTEL,NA
+"Yeah, uhm... see the problem is I... by the time I got the invitation... I uhm, actually already had plans.",408,lines,Serena,NA,INT THE PALACE HOTEL,NA
+Plans with whom?,409,lines,Lily,NA,INT THE PALACE HOTEL,NA
+My friend.,410,lines,Serena,NA,INT THE PALACE HOTEL,NA
+"Eh, yeah, hi, nice to meet you Misses van der Woodsen. I'm Dan... Humphrey.",411,lines,Dan,NA,INT THE PALACE HOTEL,NA
+What are you and Dan Humphrey doing?,412,lines,Lily,NA,INT THE PALACE HOTEL,NA
+We... uhm...,413,lines,Serena,NA,INT THE PALACE HOTEL,NA
+NA,414,directions,NA,Dan shows Lily a flyer for his dad's concert,INT THE PALACE HOTEL,NA
+"Eh, we're going to a concert tonight.",415,lines,Dan,NA,INT THE PALACE HOTEL,NA
+Lincon Hawk?,416,lines,Lily,NA,INT THE PALACE HOTEL,NA
+"Yeah, 'Rolling Stone' named them one of the 'Top 10 Forgotten Bands Of The '90s'.",417,lines,Dan,NA,INT THE PALACE HOTEL,NA
+Whooh! I'm a huge fan.,418,lines,Serena,NA,INT THE PALACE HOTEL,NA
+Uh-hum.,419,lines,Dan,NA,INT THE PALACE HOTEL,NA
+"Well, this party would have been the perfect opportunity for you to announce your return but I guess I'll just keep the dress for myself.",420,lines,Lily,NA,INT THE PALACE HOTEL,NA
+NA,421,directions,NA,Lily walks off,INT THE PALACE HOTEL,NA
+Thank you.,422,lines,Serena,NA,INT THE PALACE HOTEL,NA
+"Yeah, no, I... it's not a problem, really.",423,lines,Dan,NA,INT THE PALACE HOTEL,NA
+NA,424,directions,NA,Dan starts walking off,INT THE PALACE HOTEL,NA
+So pick me up at eight?,425,lines,Serena,NA,INT THE PALACE HOTEL,NA
+You really go out with some guy you don't know?,426,lines,Dan,NA,INT THE PALACE HOTEL,NA
+"Well, you can't be worse than the guys I do know.",427,lines,Serena,NA,INT THE PALACE HOTEL,NA
+NA,428,directions,NA,Blair and Nate are having dinner,INT JAPANESE RESTAURANT,35
+"Thanks for meeting me. Look, Blair, I really hurt you and I know that and I want to fix it.",429,lines,Nate,NA,INT JAPANESE RESTAURANT,NA
+Really? And how are you gonna do that?,430,lines,Blair,NA,INT JAPANESE RESTAURANT,NA
+I'm gonna put everything in the past. I'm not gonna see Serena again or even talk to her. It'll be like she doesn't exist.,431,lines,Nate,NA,INT JAPANESE RESTAURANT,NA
+I think that's a good idea. Let's not mention it again. You gonna eat that?,432,lines,Blair,NA,INT JAPANESE RESTAURANT,NA
+NA,433,directions,NA,Blair picks up a piece of sushi from Nate's plate,INT JAPANESE RESTAURANT,NA
+"That's it? 'Cause you were pretty upset last night... I mean, should we talk about this?",434,lines,Nate,NA,INT JAPANESE RESTAURANT,NA
+"There is nothing to talk about. I overreacted... you say it's in the past, it's in the past. I'm sure you have no feelings for her anymore. I just feel bad for Serena... she'll really miss you. What time does the limo come?",435,lines,Blair,NA,INT JAPANESE RESTAURANT,NA
+Eight.,436,lines,Nate,NA,INT JAPANESE RESTAURANT,NA
+Perfect.,437,lines,Blair,NA,INT JAPANESE RESTAURANT,NA
+NA,438,directions,NA,"Rufus is working, Lily walks in",INT THE HUMPHREYS ART GALLERY,36
+Lily! Are you shopping for some more art to match your furniture?,439,lines,Rufus,NA,INT THE HUMPHREYS ART GALLERY,NA
+Why is my dauthter going to one of your concerts?,440,lines,Lily,NA,INT THE HUMPHREYS ART GALLERY,NA
+'Cause we're awesome.,441,lines,Rufus,NA,INT THE HUMPHREYS ART GALLERY,NA
+With your son?,442,lines,Lily,NA,INT THE HUMPHREYS ART GALLERY,NA
+Dan's got a date with Serena?,443,lines,Rufus,NA,INT THE HUMPHREYS ART GALLERY,NA
+Hmm.,444,lines,Lily,NA,INT THE HUMPHREYS ART GALLERY,NA
+"Well, your kids were about to meet, it's a small island.",445,lines,Rufus,NA,INT THE HUMPHREYS ART GALLERY,NA
+You're sure it's not some ploy your using my daughter to get to me? Now that your wife left you?,446,lines,Lily,NA,INT THE HUMPHREYS ART GALLERY,NA
+How do you know about Alison?,447,lines,Rufus,NA,INT THE HUMPHREYS ART GALLERY,NA
+Like you said: Small island.,448,lines,Lily,NA,INT THE HUMPHREYS ART GALLERY,NA
+"Oh, I get it: You hear about Alison, use your daughter as an excuse to start something.",449,lines,Rufus,NA,INT THE HUMPHREYS ART GALLERY,NA
+"Yeah, in your dream!",450,lines,Lily,NA,INT THE HUMPHREYS ART GALLERY,NA
+"Well, you are in my dreams, Lily... and one of them particular occurs finding you in the back of a Nine Inch Nails bus with your shoes in your earrings and Trent Reznor... oh, that happened!",451,lines,Rufus,NA,INT THE HUMPHREYS ART GALLERY,NA
+No need to rehash details of decades pass. So I moved on.,452,lines,Lily,NA,INT THE HUMPHREYS ART GALLERY,NA
+"Yeah, from Chanterlane to Paris until you switched up rock stars for billionaires.",453,lines,Rufus,NA,INT THE HUMPHREYS ART GALLERY,NA
+"You think you're so cute. Washed up band, crappy so-called 'art gallery'.",454,lines,Lily,NA,INT THE HUMPHREYS ART GALLERY,NA
+"Well, not all of us have settlements from mulitple divorcés to sustain us.",455,lines,Rufus,NA,INT THE HUMPHREYS ART GALLERY,NA
+"Just stay out of my life, Rufus!",456,lines,Lily,NA,INT THE HUMPHREYS ART GALLERY,NA
+NA,457,directions,NA,"Jenny and Dan are standing in front of a mirror, getting ready to go out",INT HOME OF THE HUMPHREYS,37
+You're going out with Serena and I'm going to 'Kiss On The Lips'. Who said this family wasn't cool.,458,lines,Jenny,NA,INT HOME OF THE HUMPHREYS,NA
+"Well, listen, I don't want to be late but you're looking great.",459,lines,Dan,NA,INT HOME OF THE HUMPHREYS,NA
+Same.,460,lines,Jenny,NA,INT HOME OF THE HUMPHREYS,NA
+NA,461,directions,NA,"Dan leaves, Rufus comes home, they pass in the hallway",INT HOME OF THE HUMPHREYS,NA
+"See you at the concert, right dad.",462,lines,Dan,NA,INT HOME OF THE HUMPHREYS,NA
+"I, uhm... ok. [Rufus sees Jenny and walks over to her]",463,lines,Rufus,NA,INT HOME OF THE HUMPHREYS,NA
+"Oh my god, my daughter is a woman.",464,lines,Rufus,NA,INT HOME OF THE HUMPHREYS,NA
+"Dad, you could just tell me I look nice instead of turning this into a sermon on the passage of time.",465,lines,Jenny,NA,INT HOME OF THE HUMPHREYS,NA
+You look like... your mother.,466,lines,Rufus,NA,INT HOME OF THE HUMPHREYS,NA
+Thanks.,467,lines,Jenny,NA,INT HOME OF THE HUMPHREYS,NA
+NA,468,directions,NA,"Blair is looking at herself in a full-length mirror, she's wearing a brown dress, Eleanor enters",INT BLAIR'S BEDROOM,38
+Blair. let me see how it looks! Why are you wearing that one? Didn't you see the dress I left on the bed?,469,lines,Eleanor,NA,INT BLAIR'S BEDROOM,NA
+I like this one.,470,lines,Blair,NA,INT BLAIR'S BEDROOM,NA
+This one is not as elegant a choice as that one.,471,lines,Eleanor,NA,INT BLAIR'S BEDROOM,NA
+Why do you care so much?,472,lines,Blair,NA,INT BLAIR'S BEDROOM,NA
+"Because I love you. Blair, you will never be more beautiful or thin or happy than you are right now. I just want you to make the most of it.",473,lines,Eleanor,NA,INT BLAIR'S BEDROOM,NA
+I guess I have time to change.,474,lines,Blair,NA,INT BLAIR'S BEDROOM,NA
+And put some product in your hair. The ends are dry.,475,lines,Eleanor,NA,INT BLAIR'S BEDROOM,NA
+NA,476,directions,NA,"Blair, Nate, Chuck, Isabel and Katy are laughing and drinking champagne",INT LIMOUSINE,39
+NA,477,directions,NA,"Dan enters and sees Serena standing on the gallery, they look at each other and smile",INT THE PALACE HOTEL,40
+NA,478,directions,NA,"Chuck, Isabel and Katy are standing at the bar, Chuck spots Jenny in the crowd",INT 'KISS ON THE LIPS' PARTY,41
+Who's the newbie?,479,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Jenny Humphrey. She's a freshman.,480,lines,Katy,NA,INT 'KISS ON THE LIPS' PARTY,NA
+I love freshman. They're so...,481,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+...fresh?,482,lines,Isabel,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Anything about her on 'Gossip Girl'?,483,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+No.,484,lines,Isabel,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Mmh... till you're done with her.,485,lines,Isabel,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,486,directions,NA,Chuck walks over to Jenny,INT 'KISS ON THE LIPS' PARTY,NA
+"Hi, I'm Chuck.",487,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+"I know, uhm, I mean, hi, I'm Jenny.",488,lines,Jenny,NA,INT 'KISS ON THE LIPS' PARTY,NA
+It's nice to meet you.,489,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+You too.,490,lines,Jenny,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Thank you.,491,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Looks like little Jen might end up with a new boy and a ticket to the inner circle. Or will C end up with another victim? I told you I love parties.,492,voice over,Gossip Girl,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,493,directions,NA,"Serena and Dan are walking down the street towards the back entrance of a club, the band is unloading their equipment",EXT NEW YORK CITY,42
+"So I'm a little overdressed, aren't I?",494,lines,Serena,NA,EXT NEW YORK CITY,NA
+"Honestly, I don't really have a problem with your appearance. Hey, come on, I want you to meet one of the guys in the band.",495,lines,Dan,NA,EXT NEW YORK CITY,NA
+"Oh, so you're a groupie?",496,lines,Serena,NA,EXT NEW YORK CITY,NA
+"Well, not quite.",497,lines,Dan,NA,EXT NEW YORK CITY,NA
+NA,498,directions,NA,Dan leads Serena to Rufus,EXT NEW YORK CITY,NA
+"Serena, I'd like you to meet Rufus Humphrey. Dad, this is Serena.",499,lines,Dan,NA,EXT NEW YORK CITY,NA
+"Serena van der Woodsen. Oh, I don't know how I know that. Nice to meet you.",500,lines,Rufus,NA,EXT NEW YORK CITY,NA
+Nice to meet you too.,501,lines,Serena,NA,EXT NEW YORK CITY,NA
+You guys are a little early. It's gonna be a while before we take the stage.,502,lines,Rufus,NA,EXT NEW YORK CITY,NA
+"Yeah, I may have slightly overbudgeted it for travel time.",503,lines,Dan,NA,EXT NEW YORK CITY,NA
+NA,504,directions,NA,One of Rufus' bandmates holds Rufus' guitar into the air,EXT NEW YORK CITY,NA
+Hey!,505,lines,Rufus' Bandmate,NA,EXT NEW YORK CITY,NA
+"I should go tune that. Excuse me. Enjoy the show! Son, talk to you later.",506,lines,Rufus,NA,EXT NEW YORK CITY,NA
+NA,507,directions,NA,Rufus leaves,EXT NEW YORK CITY,NA
+"Yeah, see you.",508,lines,Dan,NA,EXT NEW YORK CITY,NA
+So you took me to meet your dad on our first date?,509,lines,Serena,NA,EXT NEW YORK CITY,NA
+"So this... this is a date? Ah, maybe I should have worn my loafers then... and dress down a little bit.",510,lines,Dan,NA,EXT NEW YORK CITY,NA
+NA,511,directions,NA,Chuck leads Jenny upstairs,INT 'KISS ON THE LIPS' PARTY,43
+Let's go and talk some in private.,512,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Ok.,513,lines,Jenny,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,514,directions,NA,They stop in the empty stairway,INT 'KISS ON THE LIPS' PARTY,NA
+This is definitely quieter but do you actually know where we're going or...,515,lines,Jenny,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Here looks pretty good.,516,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,517,directions,NA,Chuck leans in to kiss Jenny but she pulls away,INT 'KISS ON THE LIPS' PARTY,NA
+"So, you said you wanted to talk. Uhm, what do you want to talk about?",518,lines,Jenny,NA,INT 'KISS ON THE LIPS' PARTY,NA
+How into you I am.,519,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,520,directions,NA,Chuck starts kissing Jenny but after a few moments she pulls away again,INT 'KISS ON THE LIPS' PARTY,NA
+"Ok, I am sorry. If you don't want to do anything that's cool. Let's start over.",521,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+"Yeah, uhm... do you wanna start over back at the party?",522,lines,Jenny,NA,INT 'KISS ON THE LIPS' PARTY,NA
+"Eh... have a glass of champagne, please?",523,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Maybe one.,524,lines,Jenny,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,525,directions,NA,"While Chuck pours a glass of champagne, Jenny takes out her cell phone and starts texting",INT 'KISS ON THE LIPS' PARTY,NA
+NA,526,directions,NA,"Serena and Dan leave the club, Dan holds the door open for her",EXT CLUB,44
+Thanks.,527,lines,Serena,NA,EXT CLUB,NA
+NA,528,directions,NA,Dan stares at Serena,EXT CLUB,NA
+What?,529,lines,Serena,NA,EXT CLUB,NA
+"Sorry, nothing, nothing. I just, uhm... my sister was right: You're nice.",530,lines,Dan,NA,EXT CLUB,NA
+You asked my out on a date and you didn't think I was nice?,531,lines,Serena,NA,EXT CLUB,NA
+"No, uh... I just thought you were hot. And technically, you asked me out.",532,lines,Dan,NA,EXT CLUB,NA
+"Oh, ok, ok, I see. So, uhm, sensible tortured soul boy is actually kind of superficial.",533,lines,Serena,NA,EXT CLUB,NA
+"Yeah, just a little bit.",534,lines,Dan,NA,EXT CLUB,NA
+Good to know.,535,lines,Serena,NA,EXT CLUB,NA
+NA,536,directions,NA,"Dan's cell phone rings, he takes a look at the new text message: Jenny (Mobile), Sep 25, 2007, 9:15:05 PM, HELP. EMERGENCY. NEED YOU, J.",EXT CLUB,NA
+Sorry.,537,lines,Dan,NA,EXT CLUB,NA
+NA,538,directions,NA,"Dan gets another text message: Jenny (Mobile), Sep 25, 2007, 9:15:44 PM, 911, 4 REAL PLEASE. U KNOW Chuck?",EXT CLUB,NA
+Got a better offer?,539,lines,Serena,NA,EXT CLUB,NA
+"No, it's my sister. She's at that 'Kiss On The Lips' party, you know. She's having some problems with that guy Chuck. I'm sorry, I have to go.",540,lines,Dan,NA,EXT CLUB,NA
+I'll go with you.,541,lines,Serena,NA,EXT CLUB,NA
+"No, really, that's ok.",542,lines,Dan,NA,EXT CLUB,NA
+"No, no, listen, if it's Chuck it's not ok.",543,lines,Serena,NA,EXT CLUB,NA
+NA,544,directions,NA,Dan and Serena enter,INT 'KISS ON THE LIPS' PARTY,45
+"I'm gonna do a lap, ok? Look for her.",545,lines,Dan,NA,INT 'KISS ON THE LIPS' PARTY,NA
+"Yeah, ok.",546,lines,Serena,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,547,directions,NA,The guests notice Serena and start gossiping,INT 'KISS ON THE LIPS' PARTY,NA
+... Serena... it's Serena... oh my gosh... is she really here?... is that really her?... Blair said she wasn't invited... she is wasted... she is so brave...,548,lines,Party Guests,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,549,directions,NA,Isabel and Katy both get new text messages,INT 'KISS ON THE LIPS' PARTY,NA
+Serena's here?,550,lines,Isabel and Katy,NA,INT 'KISS ON THE LIPS' PARTY,NA
+What is she doing here? She wasn't invited.,551,lines,Blair,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,552,directions,NA,Blair makes her way through the crowd towards Serena but Nate stops her,INT 'KISS ON THE LIPS' PARTY,NA
+"Blair, come on, are you really gonna kick her out?",553,lines,Nate,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Did you invite her?,554,lines,Blair,NA,INT 'KISS ON THE LIPS' PARTY,NA
+What? No! God! I told you.,555,lines,Nate,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Do not talk to her.,556,lines,Blair,NA,INT 'KISS ON THE LIPS' PARTY,NA
+I was going for a walk.,557,lines,Nate,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,558,directions,NA,"Nate passes Serena without looking at her, Serena turns around and stares at Blair",INT 'KISS ON THE LIPS' PARTY,NA
+NA,559,directions,NA,Chuck tries to kiss Jenny against her will,EXT ROOF TOP,46
+No!,560,lines,Jenny,NA,EXT ROOF TOP,NA
+Quiet.,561,lines,Chuck,NA,EXT ROOF TOP,NA
+Stop!,562,lines,Jenny,NA,EXT ROOF TOP,NA
+NA,563,directions,NA,Serena finds Dan,INT 'KISS ON THE LIPS' PARTY,47
+"Hey, no luck?",564,lines,Serena,NA,INT 'KISS ON THE LIPS' PARTY,NA
+"No, I haven't seen here anywhere.",565,lines,Dan,NA,INT 'KISS ON THE LIPS' PARTY,NA
+"Come on, let's try upstairs.",566,lines,Serena,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,567,directions,NA,They go upstairs,INT 'KISS ON THE LIPS' PARTY,NA
+There isn't going to be anybody up here. This is pointless.,568,lines,Dan,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,569,directions,NA,Serena finds a scarf on the floor,INT 'KISS ON THE LIPS' PARTY,NA
+Dan!,570,lines,Serena,NA,INT 'KISS ON THE LIPS' PARTY,NA
+What?,571,lines,Dan,NA,INT 'KISS ON THE LIPS' PARTY,NA
+That's Chuck's scarf.,572,lines,Serena,NA,INT 'KISS ON THE LIPS' PARTY,NA
+Oh god!,573,lines,Dan,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,574,directions,NA,"Chuck is still trying to kiss Jenny, Dan runs over to them",EXT ROOF TOP,48
+Get off. Stop!,575,lines,Jenny,NA,EXT ROOF TOP,NA
+"Hey, Jenny!",576,lines,Dan,NA,EXT ROOF TOP,NA
+Chuck! Get off of here!,577,lines,Serena,NA,EXT ROOF TOP,NA
+NA,578,directions,NA,"Chuck lets Jenny go, Dan hugs her",EXT ROOF TOP,NA
+Are you ok?,579,lines,Dan,NA,EXT ROOF TOP,NA
+NA,580,directions,NA,Dan walks over to Chuck who pushes him away,EXT ROOF TOP,NA
+Son of a...,581,lines,Dan,NA,EXT ROOF TOP,NA
+What the hell is your problem? It's a party. Things happen. Who are you anyway?,582,lines,Chuck,NA,EXT ROOF TOP,NA
+How many times do I have to tell you? I'm in your class. My name is Dan Humphrey... and that is my little sister.,583,lines,Dan,NA,EXT ROOF TOP,NA
+NA,584,directions,NA,"Dan punches Chuck in the face, Chuck's nose is bleeding",EXT ROOF TOP,NA
+Let's go. come on. [Serena pushes Chuck],585,lines,Serena,NA,EXT ROOF TOP,NA
+"Chuck, don't you ever touch her again!",586,lines,Serena,NA,EXT ROOF TOP,NA
+"Hey, you're life is over, slut! Don't forget: I know everything!",587,lines,Chuck,NA,EXT ROOF TOP,NA
+NA,588,directions,NA,"Blair watches Serena, Dan and Jenny leaving",INT 'KISS ON THE LIPS' PARTY,49
+You sure you're ok?,589,lines,Dan,NA,INT 'KISS ON THE LIPS' PARTY,NA
+"Yeah, I will be. Just take me home, ok?",590,lines,Jenny,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,591,directions,NA,They step outside,INT 'KISS ON THE LIPS' PARTY,NA
+"So, think I've got a shot at a second date?",592,lines,Dan,NA,INT 'KISS ON THE LIPS' PARTY,NA
+"Well, I don't think we can top this one.",593,lines,Serena,NA,INT 'KISS ON THE LIPS' PARTY,NA
+I did punch someone.,594,lines,Dan,NA,INT 'KISS ON THE LIPS' PARTY,NA
+"True, we talk about it in the cab.",595,lines,Serena,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,596,directions,NA,"They get into the cab, Nate watches them leave, Blair and Chuck stand outside too",INT 'KISS ON THE LIPS' PARTY,NA
+She better not show her face again.,597,lines,Blair,NA,INT 'KISS ON THE LIPS' PARTY,NA
+I'm actually hoping she will.,598,lines,Chuck,NA,INT 'KISS ON THE LIPS' PARTY,NA
+NA,599,directions,NA,"Dan hugs Jenny, then looks at Serena who smiles at him, Serena turns and looks out of the side window",INT CAB,50
+"Spotted: Serena... making an heroic exit from B's party. Too bad for her there's school on Monday. So, until next time. You know you love me... Gossip Girl.",600,voice over,Gossip Girl,NA,INT CAB,NA

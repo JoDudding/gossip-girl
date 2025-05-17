@@ -8,3 +8,10 @@ cli::cli_h1("_run_all.r")
 #-------------------------------------------------------------------------------
 
 source("scripts/data-engineering.r")
+
+
+#--- pilot transcript ---
+
+source("scripts/pilot-transcipt-engineering.r")
+
+source("scripts/pilot-transcipt-analysis.r")
