@@ -60,7 +60,8 @@ episodes |>
     x = NULL, y = "Total US viewers (m)",
     fill = "Season", colour = "Season",
     title = "Viewership was highest in season 2",
-    subtitle = "Total US viewers (m) by season and episode"
+    subtitle = "Total US viewers (m) by season and episode",
+    caption = gg_caption
   ) +
   guides(x = "none", fill = "none")
 
@@ -79,7 +80,8 @@ episodes |>
     x = "Episode", y = "Total US viewers (m)",
     fill = "Season", colour = "Season",
     title = "Viewership trended down within seasons",
-    subtitle = "Total US viewers (m) by season and episode"
+    subtitle = "Total US viewers (m) by season and episode",
+    caption = gg_caption
   ) +
   guides(colour = "none")
 
@@ -97,7 +99,8 @@ episodes |>
     x = "Season", y = "Total US viewers (m)",
     colour = "Episode type",
     title = "Similar viewership for the first and last episodes in a season",
-    subtitle = "Total US viewers (m) by season for first and last episodes"
+    subtitle = "Total US viewers (m) by season for first and last episodes",
+    caption = gg_caption
   )
 
 gg_save("viewership-first-last")

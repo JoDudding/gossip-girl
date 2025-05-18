@@ -52,7 +52,8 @@ gg_pilot_token |>
     n_top_word = first(n)
   ) |>
   ungroup() |>
-  arrange(-n_words)
+  arrange(-n_words) |> 
+  print()
 
 #--- who are they talking about ---
 
@@ -133,7 +134,8 @@ gg_pilot_token |>
   labs(
     x = "Net sentiment percent",
     y = NULL,
-    title = "Net sentiment by character in pilot",
+    title = "Lily is the most positive character and Howie is the most negative",
+    subtitle = "Net sentiment by character in pilot",
     caption = pilot_caption
   )
 

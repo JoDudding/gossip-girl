@@ -33,8 +33,6 @@ XOXO
 
 ![](charts/viewership-line.png)
 
-![](charts/viewership-first-last.png)
-
 # Analysis of pilot transcript
 
 ![](charts/gg-pilot-speaking-about.png)
