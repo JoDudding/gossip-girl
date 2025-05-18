@@ -1,0 +1,45 @@
+table,variable,class,description
+gg-cast-main,actor,character,Actor name
+gg-cast-main,character,character,Character name
+gg-cast-main,season,character,Season number
+gg-cast-main,cast_type,character,"Character is main, recurring, etc"
+gg-cast-main,character_full,character,Full name of character
+gg-cast-recurring,actor,character,Actor name
+gg-cast-recurring,character,character,Character name
+gg-cast-recurring,season,character,Season number
+gg-cast-recurring,cast_type,character,"Character is main, recurring, etc"
+gg-cast-recurring,character_full,character,Full name of character
+gg-episodes,season,integer,Season number
+gg-episodes,no_overall,integer,Episode number counting over all seasons
+gg-episodes,episode,integer,Episode number
+gg-episodes,title,integer,Episode title
+gg-episodes,directed_by,integer,Director name
+gg-episodes,written_by,integer,Writer of episode
+gg-episodes,original_release_date,integer,Original release date of episode
+gg-episodes,us_viewers_millions,integer,US viewership (millions)
+gg-metadata,table,character,Name of table
+gg-metadata,variable,character,Name of variable
+gg-metadata,class,character,Class of variable
+gg-metadata,description,character,Description of variable
+gg-pilot-token,main_character,logical,Person speaking is a main character
+gg-pilot-token,character,logical,Character name
+gg-pilot-token,line_no,logical,Line number in pilot transcript
+gg-pilot-token,line_type,logical,"Line was spoken, voice over or direction"
+gg-pilot-token,word,logical,Word spoken in the pilot transcript
+gg-pilot-token,main_character_word,logical,Word is a main character name
+gg-pilot,line,character,Text of line in pilot transcript
+gg-pilot,season,character,Season number
+gg-pilot,episode,character,Episode number
+gg-pilot,line_no,character,Line number in pilot transcript
+gg-pilot,line_type,character,"Line was spoken, voice over or direction"
+gg-pilot,character,character,Character name
+gg-pilot,direction,character,Direction for actors in pilot transcript
+gg-pilot,location,character,Location line was spoken in the pilot transcript
+gg-pilot,main_character,character,Person speaking is a main character
+gg-relationships,character,character,Character name
+gg-relationships,relationship_id,character,Unique ID for the relationship
+gg-season-summary,season,integer,Season number
+gg-season-summary,episodes,integer,Number of episodes in series
+gg-season-summary,first_released,integer,Date season first released
+gg-season-summary,last_released,integer,Date season last released
+gg-season-summary,average_viewership_in_millions,integer,Average US viewership (millions)

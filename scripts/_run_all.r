@@ -23,4 +23,10 @@ source("scripts/pilot-transcript-analysis.r")
 
 source("scripts/relationships-analysis.r")
 
+#--- create table metadata ---
 
+source("scripts/create-table-metadata.r")
+
+#--- write to google sheets ---
+
+source("scripts/write-to-google-sheets.r")

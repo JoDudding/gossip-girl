@@ -19,6 +19,7 @@ library(janitor, quietly = TRUE)
 library(tidytext, quietly = TRUE)
 library(textdata, quietly = TRUE)
 library(systemfonts, quietly = TRUE)
+library(googlesheets4, quietly = TRUE)
 
 #--- options ---
 
@@ -51,7 +52,7 @@ gg_palette <- list(
   grey = "#c0c0c0"
 )
 
-scales::show_col(unlist(gg_palette))
+#scales::show_col(unlist(gg_palette))
 
 #systemfonts::get_from_google_fonts("Roboto")
 

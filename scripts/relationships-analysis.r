@@ -27,6 +27,8 @@ gg_relationships <- tibble(
 
 log_obj("gg_relationships")
 
+save_rds_csv("gg_relationships")
+
 #--- who had the most relationships? ---
 
 gg_relationships |> 

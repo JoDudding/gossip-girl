@@ -24,6 +24,8 @@ gg_pilot_raw <- tibble(
 ) |>
   filter(line != "") |>
   mutate(
+    season = 1,
+    episode = 1,
     line_no = row_number(),
     line_type = case_when(
       str_sub(line, 1, 1) == "[" ~ "directions",
@@ -76,8 +78,7 @@ tidy_directions_location <- gg_pilot_raw |>
     direction = str_sub(line, str_length(location) + 5) |>
       str_trim() |>
       str_remove("\\]$") |>
-      str_trim(),
-    location_id = row_number()
+      str_trim()
   ) |>
   select(-line)
 
