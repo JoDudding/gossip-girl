@@ -9,16 +9,16 @@
 
 #--- packages ---
 
-library(tidyverse)
-library(glue)
-library(scales)
-library(cli)
-library(rvest)
-library(janitor)
-#library(tidytuesdayR)
-library(tidytext)
-library(textdata)
-library(systemfonts)
+library(tidyverse, quietly = TRUE)
+library(glue, quietly = TRUE)
+library(scales, quietly = TRUE)
+library(cli, quietly = TRUE)
+library(rvest, quietly = TRUE)
+library(janitor, quietly = TRUE)
+#library(tidytuesdayR, quietly = TRUE)
+library(tidytext, quietly = TRUE)
+library(textdata, quietly = TRUE)
+library(systemfonts, quietly = TRUE)
 
 #--- options ---
 
@@ -76,9 +76,9 @@ theme_set(
 )
 
 update_geom_defaults("col", aes(fill = gg_palette$red, colour = NA))
-update_geom_defaults("line", aes(colour = gg_palette$blue, linewidth = 1))
+update_geom_defaults("line", aes(colour = gg_palette$blue, linewidth = 0.5))
 update_geom_defaults("segment", aes(colour = gg_palette$blue))
-update_geom_defaults("point", aes(colour = gg_palette$blue, size = 2))
+update_geom_defaults("point", aes(colour = gg_palette$blue, size = 1))
 update_geom_defaults("text", aes(
   family = "Roboto", colour = gg_palette$black,
   size = base_size / .pt * 0.8

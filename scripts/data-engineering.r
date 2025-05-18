@@ -56,42 +56,42 @@ save_rds_csv("gg_season_summary")
 
 #--- episodes ---
 
-gg_episodes_tables <- html_nodes(gg_episodes_wiki, ".wikitable") 
+gg_episodes_tables <- html_nodes(gg_episodes_wiki, ".wikitable")
+ 
+gg_episodes <- map_dfr(
+  1:6,
+  ~gg_episodes_tables |> 
+    pluck(1 + .x) |>
+    html_table(fill = TRUE) |> 
+    clean_names() |> 
+    mutate(
+      season = as.integer(.x),
+      no_inseason = as.integer(no_inseason),
+      across(where(is.character), ~str_remove_all(.x , "\\[.*\\]")),
+      title = str_remove_all(title, '"'),
+      original_release_date = ymd(str_sub(original_release_date, -11, -2)),
+      u_s_viewers_millions  = as.numeric(u_s_viewers_millions )
+    ) |> 
+    select(season, everything()) 
+) |> 
+  select(-prod_code) |> 
+  rename(
+    us_viewers_millions = u_s_viewers_millions,
+    episode = no_inseason 
+  ) 
 
+log_obj("gg_episodes")
 
-#--- ratings ---
-
-gg_ratings <- gg_episodes_tables |> 
-  pluck(9) |>
-  html_table(fill = TRUE) |> 
-  clean_names() |> 
-  filter(season != 'Season') |> 
-  select(-season, -average) |> 
-  rename(season = season_2) |> 
-  gather(-season, key = "episode", value = 'rating') |> 
-  mutate(
-    seasons = as.integer(season),
-    episode = if_else(
-      episode == "episode_number", "episode_number_1", episode) |> 
-      parse_number() |> 
-      as.integer(),
-    rating = as.numeric(rating)
-  ) |> 
-  filter(! is.na(rating))
-
-log_obj("gg_ratings")
-
-gg_ratings |> 
-  filter(!is.na(episode)) |> 
+gg_episodes |> 
   group_by(season) |> 
   summarise(
     n_episodes = n(),
-    avg_rating = mean(rating)
+    avg_us_viewers_millions = mean(us_viewers_millions)
   ) |> 
   print()
-  
-save_rds_csv("gg_ratings")  
-  
+
+save_rds_csv("gg_episodes")
+
 #--- cast ---
 
 # get the tables from the cast page
@@ -111,14 +111,16 @@ log_obj("gg_cast_main_raw")
 gg_cast_main <- gg_cast_main_raw |>
   set_names(
     c(
-      "actor", "character", "OG1", "OG2", "OG3", "OG4", "OG5",
-      "OG6", "New1", "New2"
+      "actor", "character", "1", "2", "3", "4", "5",
+      "6", "drop_1", "drop_2"
     )
   ) |>
   filter(row_number() > 2) |>
+  select(-drop_1, -drop_2) |> 
   gather(-1, -2, key = "season", value = "cast_type") |>
   clean_names() |>
   mutate(
+    season = as.integer(season),
     actor = str_remove_all(actor, "\\[.*\\]"),
     character = str_remove_all(character, "\\[.*\\]"),
     character_full = character,
@@ -159,14 +161,16 @@ log_obj("gg_cast_recurring_raw")
 gg_cast_recurring <- gg_cast_recurring_raw |>
   set_names(
     c(
-      "actor", "character", "OG1", "OG2", "OG3", "OG4", "OG5",
-      "OG6", "New1", "New2"
+      "actor", "character", "1", "2", "3", "4", "5",
+      "6", "drop_1", "drop_2"
     )
   ) |>
   filter(row_number() > 2) |>
+  select(-drop_1, -drop_2) |> 
   gather(-1, -2, key = "season", value = "cast_type") |>
   clean_names() |>
   mutate(
+    season = as.integer(season),
     actor = str_remove_all(actor, "\\[.*\\]"),
     character = str_remove_all(character, "\\[.*\\]"),
     character_full = character,

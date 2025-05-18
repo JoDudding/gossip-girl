@@ -1,95 +1,62 @@
 actor,character,season,cast_type,character_full
-Blake Lively,Serena,OG1,Main,Serena van der Woodsen
-Leighton Meester,Blair,OG1,Main,Blair Waldorf
-Penn Badgley,Dan,OG1,Main,Dan Humphrey
-Chace Crawford,Nate,OG1,Main,Nate Archibald
-Taylor Momsen,Jenny,OG1,Main,Jenny Humphrey
-Ed Westwick,Chuck,OG1,Main,Chuck Bass
-Kelly Rutherford,Lily,OG1,Main,Lily van der Woodsen
-Matthew Settle,Rufus,OG1,Main,Rufus Humphrey
-Jessica Szohr,Vanessa,OG1,Main,Vanessa Abrams
-Kristen Bell,Gossip Girl,OG1,Main,Gossip Girl
-Blake Lively,Serena,OG2,Main,Serena van der Woodsen
-Leighton Meester,Blair,OG2,Main,Blair Waldorf
-Penn Badgley,Dan,OG2,Main,Dan Humphrey
-Chace Crawford,Nate,OG2,Main,Nate Archibald
-Taylor Momsen,Jenny,OG2,Main,Jenny Humphrey
-Ed Westwick,Chuck,OG2,Main,Chuck Bass
-Kelly Rutherford,Lily,OG2,Main,Lily van der Woodsen
-Matthew Settle,Rufus,OG2,Main,Rufus Humphrey
-Jessica Szohr,Vanessa,OG2,Main,Vanessa Abrams
-Kristen Bell,Gossip Girl,OG2,Main,Gossip Girl
-Blake Lively,Serena,OG3,Main,Serena van der Woodsen
-Leighton Meester,Blair,OG3,Main,Blair Waldorf
-Penn Badgley,Dan,OG3,Main,Dan Humphrey
-Chace Crawford,Nate,OG3,Main,Nate Archibald
-Taylor Momsen,Jenny,OG3,Main,Jenny Humphrey
-Ed Westwick,Chuck,OG3,Main,Chuck Bass
-Kelly Rutherford,Lily,OG3,Main,Lily van der Woodsen
-Matthew Settle,Rufus,OG3,Main,Rufus Humphrey
-Jessica Szohr,Vanessa,OG3,Main,Vanessa Abrams
-Kristen Bell,Gossip Girl,OG3,Main,Gossip Girl
-Blake Lively,Serena,OG4,Main,Serena van der Woodsen
-Leighton Meester,Blair,OG4,Main,Blair Waldorf
-Penn Badgley,Dan,OG4,Main,Dan Humphrey
-Chace Crawford,Nate,OG4,Main,Nate Archibald
-Taylor Momsen,Jenny,OG4,Main,Jenny Humphrey
-Ed Westwick,Chuck,OG4,Main,Chuck Bass
-Kelly Rutherford,Lily,OG4,Main,Lily van der Woodsen
-Matthew Settle,Rufus,OG4,Main,Rufus Humphrey
-Jessica Szohr,Vanessa,OG4,Main,Vanessa Abrams
-Kristen Bell,Gossip Girl,OG4,Main,Gossip Girl
-Kaylee DeFer,Ivy,OG4,Recurring,Ivy Dickens
-Blake Lively,Serena,OG5,Main,Serena van der Woodsen
-Leighton Meester,Blair,OG5,Main,Blair Waldorf
-Penn Badgley,Dan,OG5,Main,Dan Humphrey
-Chace Crawford,Nate,OG5,Main,Nate Archibald
-Ed Westwick,Chuck,OG5,Main,Chuck Bass
-Kelly Rutherford,Lily,OG5,Main,Lily van der Woodsen
-Matthew Settle,Rufus,OG5,Main,Rufus Humphrey
-Kristen Bell,Gossip Girl,OG5,Main,Gossip Girl
-Kaylee DeFer,Ivy,OG5,Main,Ivy Dickens
-Blake Lively,Serena,OG6,Main,Serena van der Woodsen
-Leighton Meester,Blair,OG6,Main,Blair Waldorf
-Penn Badgley,Dan,OG6,Main,Dan Humphrey
-Chace Crawford,Nate,OG6,Main,Nate Archibald
-Taylor Momsen,Jenny,OG6,Special Guest,Jenny Humphrey
-Ed Westwick,Chuck,OG6,Main,Chuck Bass
-Kelly Rutherford,Lily,OG6,Main,Lily van der Woodsen
-Matthew Settle,Rufus,OG6,Main,Rufus Humphrey
-Jessica Szohr,Vanessa,OG6,Special Guest,Vanessa Abrams
-Kristen Bell,Gossip Girl,OG6,Main,Gossip Girl
-Kaylee DeFer,Ivy,OG6,Main,Ivy Dickens
-Leighton Meester,Blair,New1,Photographs,Blair Waldorf
-Kristen Bell,Gossip Girl,New1,Main,Gossip Girl
-Jordan Alexander,Julien,New1,Main,Julien Calloway
-Whitney Peak,Zoya,New1,Main,Zoya Lott
-Tavi Gevinson,Kate,New1,Main,Kate Keller
-Eli Brown,Obie,New1,Main,"Otto ""Obie"" Bergmann IV"
-Thomas Doherty,Max,New1,Main,"Maximus ""Max"" Wolfe"
-Emily Alyn Lind,Audrey,New1,Main,Audrey Hope
-Evan Mock,Aki,New1,Main,"Akeno ""Aki"" Menzies"
-Johnathan Fernandez,Nick,New1,Main,Nick Lott
-Adam Chanler-Berat,Jordan,New1,Main,Jordan Glassberg
-Zión Moreno,Luna,New1,Main,Luna La
-Savannah Lee Smith,Monet,New1,Main,Monet de Haan
-Jason Gotay,Rafa,New1,Main,Rafa Caparros
-Todd Almond,Gideon,New1,Main,Gideon Wolfe
-Laura Benanti,Kiki,New1,Main,Kiki Hope
-Grace Duah,Shan,New1,Guest,Shan Barnes
-Megan Ferguson,Wendy,New1,Recurring,Wendy
-Kristen Bell,Gossip Girl,New2,Main,Gossip Girl
-Jordan Alexander,Julien,New2,Main,Julien Calloway
-Whitney Peak,Zoya,New2,Main,Zoya Lott
-Tavi Gevinson,Kate,New2,Main,Kate Keller
-Eli Brown,Obie,New2,Main,"Otto ""Obie"" Bergmann IV"
-Thomas Doherty,Max,New2,Main,"Maximus ""Max"" Wolfe"
-Emily Alyn Lind,Audrey,New2,Main,Audrey Hope
-Evan Mock,Aki,New2,Main,"Akeno ""Aki"" Menzies"
-Johnathan Fernandez,Nick,New2,Main,Nick Lott
-Adam Chanler-Berat,Jordan,New2,Main,Jordan Glassberg
-Zión Moreno,Luna,New2,Main,Luna La
-Todd Almond,Gideon,New2,Main,Gideon Wolfe
-Laura Benanti,Kiki,New2,Main,Kiki Hope
-Grace Duah,Shan,New2,Main,Shan Barnes
-Megan Ferguson,Wendy,New2,Main,Wendy
+Blake Lively,Serena,1,Main,Serena van der Woodsen
+Leighton Meester,Blair,1,Main,Blair Waldorf
+Penn Badgley,Dan,1,Main,Dan Humphrey
+Chace Crawford,Nate,1,Main,Nate Archibald
+Taylor Momsen,Jenny,1,Main,Jenny Humphrey
+Ed Westwick,Chuck,1,Main,Chuck Bass
+Kelly Rutherford,Lily,1,Main,Lily van der Woodsen
+Matthew Settle,Rufus,1,Main,Rufus Humphrey
+Jessica Szohr,Vanessa,1,Main,Vanessa Abrams
+Kristen Bell,Gossip Girl,1,Main,Gossip Girl
+Blake Lively,Serena,2,Main,Serena van der Woodsen
+Leighton Meester,Blair,2,Main,Blair Waldorf
+Penn Badgley,Dan,2,Main,Dan Humphrey
+Chace Crawford,Nate,2,Main,Nate Archibald
+Taylor Momsen,Jenny,2,Main,Jenny Humphrey
+Ed Westwick,Chuck,2,Main,Chuck Bass
+Kelly Rutherford,Lily,2,Main,Lily van der Woodsen
+Matthew Settle,Rufus,2,Main,Rufus Humphrey
+Jessica Szohr,Vanessa,2,Main,Vanessa Abrams
+Kristen Bell,Gossip Girl,2,Main,Gossip Girl
+Blake Lively,Serena,3,Main,Serena van der Woodsen
+Leighton Meester,Blair,3,Main,Blair Waldorf
+Penn Badgley,Dan,3,Main,Dan Humphrey
+Chace Crawford,Nate,3,Main,Nate Archibald
+Taylor Momsen,Jenny,3,Main,Jenny Humphrey
+Ed Westwick,Chuck,3,Main,Chuck Bass
+Kelly Rutherford,Lily,3,Main,Lily van der Woodsen
+Matthew Settle,Rufus,3,Main,Rufus Humphrey
+Jessica Szohr,Vanessa,3,Main,Vanessa Abrams
+Kristen Bell,Gossip Girl,3,Main,Gossip Girl
+Blake Lively,Serena,4,Main,Serena van der Woodsen
+Leighton Meester,Blair,4,Main,Blair Waldorf
+Penn Badgley,Dan,4,Main,Dan Humphrey
+Chace Crawford,Nate,4,Main,Nate Archibald
+Taylor Momsen,Jenny,4,Main,Jenny Humphrey
+Ed Westwick,Chuck,4,Main,Chuck Bass
+Kelly Rutherford,Lily,4,Main,Lily van der Woodsen
+Matthew Settle,Rufus,4,Main,Rufus Humphrey
+Jessica Szohr,Vanessa,4,Main,Vanessa Abrams
+Kristen Bell,Gossip Girl,4,Main,Gossip Girl
+Kaylee DeFer,Ivy,4,Recurring,Ivy Dickens
+Blake Lively,Serena,5,Main,Serena van der Woodsen
+Leighton Meester,Blair,5,Main,Blair Waldorf
+Penn Badgley,Dan,5,Main,Dan Humphrey
+Chace Crawford,Nate,5,Main,Nate Archibald
+Ed Westwick,Chuck,5,Main,Chuck Bass
+Kelly Rutherford,Lily,5,Main,Lily van der Woodsen
+Matthew Settle,Rufus,5,Main,Rufus Humphrey
+Kristen Bell,Gossip Girl,5,Main,Gossip Girl
+Kaylee DeFer,Ivy,5,Main,Ivy Dickens
+Blake Lively,Serena,6,Main,Serena van der Woodsen
+Leighton Meester,Blair,6,Main,Blair Waldorf
+Penn Badgley,Dan,6,Main,Dan Humphrey
+Chace Crawford,Nate,6,Main,Nate Archibald
+Taylor Momsen,Jenny,6,Special Guest,Jenny Humphrey
+Ed Westwick,Chuck,6,Main,Chuck Bass
+Kelly Rutherford,Lily,6,Main,Lily van der Woodsen
+Matthew Settle,Rufus,6,Main,Rufus Humphrey
+Jessica Szohr,Vanessa,6,Special Guest,Vanessa Abrams
+Kristen Bell,Gossip Girl,6,Main,Gossip Girl
+Kaylee DeFer,Ivy,6,Main,Ivy Dickens

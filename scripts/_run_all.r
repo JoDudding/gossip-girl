@@ -9,6 +9,9 @@ cli::cli_h1("_run_all.r")
 
 source("scripts/data-engineering.r")
 
+#--- viewership ---
+
+source("scripts/viewership.r")
 
 #--- pilot transcript ---
 

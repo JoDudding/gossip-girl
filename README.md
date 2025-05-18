@@ -21,13 +21,19 @@ and some transcript information for text analysis using
 Tables
 
 - [x] Cast
-- [ ] Episodes
-- [x] Ratings
+- [x] Episodes
 - [x] Relationships
 - [x] Pilot transcript
 
-
 XOXO
+
+# Viewership
+
+![](charts/viewership-bar.png)
+
+![](charts/viewership-line.png)
+
+![](charts/viewership-first-last.png)
 
 # Analysis of pilot transcript
 

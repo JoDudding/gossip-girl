@@ -1,104 +1,87 @@
 actor,character,season,cast_type,character_full
-Zuzanna Szadkowski,Dorota,OG1,Recurring,Dorota Kishlovsky
-Michelle Trachtenberg,Georgina,OG1,Recurring,Georgina Sparks
-Margaret Colin,Eleanor,OG1,Recurring,Eleanor Waldorf-Rose
-Connor Paolo,Eric,OG1,Recurring,Eric van der Woodsen
-Amanda Setton,Penelope,OG1,Recurring,Penelope Shafai
-Robert John Burke,Bart,OG1,Recurring,Bart Bass
-Yin Chang,Nelly,OG1,Recurring,Nelly Yuki
-Sam Robards,The Captain,OG1,Recurring,"Howard ""The Captain"" Archibald"
-Sebastian Stan,Carter,OG1,Guest,Carter Baizen
-Caroline Lagerfelt,CeCe,OG1,Guest,"Celia ""CeCe"" Rhodes"
-Zuzanna Szadkowski,Dorota,OG2,Recurring,Dorota Kishlovsky
-Michelle Trachtenberg,Georgina,OG2,Recurring,Georgina Sparks
-Margaret Colin,Eleanor,OG2,Recurring,Eleanor Waldorf-Rose
-Connor Paolo,Eric,OG2,Recurring,Eric van der Woodsen
-Amanda Setton,Penelope,OG2,Recurring,Penelope Shafai
-Robert John Burke,Bart,OG2,Recurring,Bart Bass
-Yin Chang,Nelly,OG2,Recurring,Nelly Yuki
-Sam Robards,The Captain,OG2,Guest,"Howard ""The Captain"" Archibald"
-Sebastian Stan,Carter,OG2,Recurring,Carter Baizen
-Caroline Lagerfelt,CeCe,OG2,Recurring,"Celia ""CeCe"" Rhodes"
-Aaron Schwartz,Vanya,OG2,Recurring,Vanya
-Desmond Harrington,Jack,OG2,Recurring,Jack Bass
-Wallace Shawn,Cyrus,OG2,Recurring,Cyrus Rose
-Sheila Kelley,Carol,OG2,Guest,Carol Rhodes
-Chris Riggi,Scott,OG2,Guest,Scott Rosson
-Zuzanna Szadkowski,Dorota,OG3,Recurring,Dorota Kishlovsky
-Michelle Trachtenberg,Georgina,OG3,Recurring,Georgina Sparks
-Margaret Colin,Eleanor,OG3,Recurring,Eleanor Waldorf-Rose
-Connor Paolo,Eric,OG3,Recurring,Eric van der Woodsen
-Robert John Burke,Bart,OG3,Guest,Bart Bass
-Sebastian Stan,Carter,OG3,Recurring,Carter Baizen
-Caroline Lagerfelt,CeCe,OG3,Recurring,"Celia ""CeCe"" Rhodes"
-Aaron Schwartz,Vanya,OG3,Recurring,Vanya
-Desmond Harrington,Jack,OG3,Recurring,Jack Bass
-Wallace Shawn,Cyrus,OG3,Guest,Cyrus Rose
-Chris Riggi,Scott,OG3,Recurring,Scott Rosson
-Kevin Zegers,Damian,OG3,Recurring,Damian Daalgard
-Hilary Duff,Olivia,OG3,Recurring,Olivia Burke
-William Baldwin,William,OG3,Recurring,William van der Woodsen
-Zuzanna Szadkowski,Dorota,OG4,Recurring,Dorota Kishlovsky
-Michelle Trachtenberg,Georgina,OG4,Recurring,Georgina Sparks
-Margaret Colin,Eleanor,OG4,Recurring,Eleanor Waldorf-Rose
-Connor Paolo,Eric,OG4,Recurring,Eric van der Woodsen
-Amanda Setton,Penelope,OG4,Recurring,Penelope Shafai
-Sam Robards,The Captain,OG4,Recurring,"Howard ""The Captain"" Archibald"
-Caroline Lagerfelt,CeCe,OG4,Guest,"Celia ""CeCe"" Rhodes"
-Aaron Schwartz,Vanya,OG4,Recurring,Vanya
-Desmond Harrington,Jack,OG4,Guest,Jack Bass
-Wallace Shawn,Cyrus,OG4,Guest,Cyrus Rose
-Sheila Kelley,Carol,OG4,Guest,Carol Rhodes
-Kevin Zegers,Damian,OG4,Recurring,Damian Daalgard
-William Baldwin,William,OG4,Guest,William van der Woodsen
-Azhy Robertson,Milo,OG4,Recurring,Milo Sparks
-Hugo Becker,Louis,OG4,Recurring,Louis Grimaldi
-Katie Cassidy,Juliet,OG4,Recurring,Juliet Sharp
-David Call,Ben,OG4,Recurring,Ben Donovan
-Michael Boatman,Russell,OG4,Recurring,Russell Thorpe
-Tika Sumpter,Raina,OG4,Recurring,Raina Thorpe
-Zuzanna Szadkowski,Dorota,OG5,Recurring,Dorota Kishlovsky
-Michelle Trachtenberg,Georgina,OG5,Recurring,Georgina Sparks
-Margaret Colin,Eleanor,OG5,Recurring,Eleanor Waldorf-Rose
-Amanda Setton,Penelope,OG5,Recurring,Penelope Shafai
-Robert John Burke,Bart,OG5,Guest,Bart Bass
-Caroline Lagerfelt,CeCe,OG5,Guest,"Celia ""CeCe"" Rhodes"
-Desmond Harrington,Jack,OG5,Recurring,Jack Bass
-Wallace Shawn,Cyrus,OG5,Guest,Cyrus Rose
-Sheila Kelley,Carol,OG5,Recurring,Carol Rhodes
-William Baldwin,William,OG5,Recurring,William van der Woodsen
-Azhy Robertson,Milo,OG5,Recurring,Milo Sparks
-Hugo Becker,Louis,OG5,Recurring,Louis Grimaldi
-Elizabeth Hurley,Diana,OG5,Recurring,Diana Payne
-Ella Rae Peck,Lola,OG5,Recurring,"Charlotte ""Lola"" Rhodes"
-Zuzanna Szadkowski,Dorota,OG6,Recurring,Dorota Kishlovsky
-Michelle Trachtenberg,Georgina,OG6,Recurring,Georgina Sparks
-Margaret Colin,Eleanor,OG6,Guest,Eleanor Waldorf-Rose
-Connor Paolo,Eric,OG6,Special Guest,Eric van der Woodsen
-Robert John Burke,Bart,OG6,Recurring,Bart Bass
-Yin Chang,Nelly,OG6,Recurring,Nelly Yuki
-Sam Robards,The Captain,OG6,Guest,"Howard ""The Captain"" Archibald"
-Desmond Harrington,Jack,OG6,Guest,Jack Bass
-Wallace Shawn,Cyrus,OG6,Guest,Cyrus Rose
-William Baldwin,William,OG6,Guest,William van der Woodsen
-Katie Cassidy,Juliet,OG6,Special Guest,Juliet Sharp
-Ella Rae Peck,Lola,OG6,Special Guest,"Charlotte ""Lola"" Rhodes"
-Barry Watson,Steven,OG6,Recurring,Steven Spence
-Sofia Black-D'Elia,Sage,OG6,Recurring,Sage Spence
-Zuzanna Szadkowski,Dorota,New1,Guest,Dorota Kishlovsky
-Michelle Trachtenberg,Georgina,New1,Photographs,Georgina Sparks
-Margaret Colin,Eleanor,New1,Guest,Eleanor Waldorf-Rose
-Yin Chang,Nelly,New1,Guest,Nelly Yuki
-Aaron Schwartz,Vanya,New1,Guest,Vanya
-Wallace Shawn,Cyrus,New1,Guest,Cyrus Rose
-Azhy Robertson,Milo,New1,Special Guest,Milo Sparks
-Luke Kirby,Davis,New1,Recurring,Davis Calloway
-Elizabeth Lail,Lola,New1,Recurring,Lola Morgan
-John Benjamin Hickey,Roy,New1,Recurring,Roy Sachs
-Michelle Trachtenberg,Georgina,New2,Guest,Georgina Sparks
-Margaret Colin,Eleanor,New2,Guest,Eleanor Waldorf-Rose
-Yin Chang,Nelly,New2,Guest,Nelly Yuki
-Wallace Shawn,Cyrus,New2,Guest,Cyrus Rose
-Azhy Robertson,Milo,New2,Special Guest,Milo Sparks
-Luke Kirby,Davis,New2,Recurring,Davis Calloway
-John Benjamin Hickey,Roy,New2,Recurring,Roy Sachs
+Zuzanna Szadkowski,Dorota,1,Recurring,Dorota Kishlovsky
+Michelle Trachtenberg,Georgina,1,Recurring,Georgina Sparks
+Margaret Colin,Eleanor,1,Recurring,Eleanor Waldorf-Rose
+Connor Paolo,Eric,1,Recurring,Eric van der Woodsen
+Amanda Setton,Penelope,1,Recurring,Penelope Shafai
+Robert John Burke,Bart,1,Recurring,Bart Bass
+Yin Chang,Nelly,1,Recurring,Nelly Yuki
+Sam Robards,The Captain,1,Recurring,"Howard ""The Captain"" Archibald"
+Sebastian Stan,Carter,1,Guest,Carter Baizen
+Caroline Lagerfelt,CeCe,1,Guest,"Celia ""CeCe"" Rhodes"
+Zuzanna Szadkowski,Dorota,2,Recurring,Dorota Kishlovsky
+Michelle Trachtenberg,Georgina,2,Recurring,Georgina Sparks
+Margaret Colin,Eleanor,2,Recurring,Eleanor Waldorf-Rose
+Connor Paolo,Eric,2,Recurring,Eric van der Woodsen
+Amanda Setton,Penelope,2,Recurring,Penelope Shafai
+Robert John Burke,Bart,2,Recurring,Bart Bass
+Yin Chang,Nelly,2,Recurring,Nelly Yuki
+Sam Robards,The Captain,2,Guest,"Howard ""The Captain"" Archibald"
+Sebastian Stan,Carter,2,Recurring,Carter Baizen
+Caroline Lagerfelt,CeCe,2,Recurring,"Celia ""CeCe"" Rhodes"
+Aaron Schwartz,Vanya,2,Recurring,Vanya
+Desmond Harrington,Jack,2,Recurring,Jack Bass
+Wallace Shawn,Cyrus,2,Recurring,Cyrus Rose
+Sheila Kelley,Carol,2,Guest,Carol Rhodes
+Chris Riggi,Scott,2,Guest,Scott Rosson
+Zuzanna Szadkowski,Dorota,3,Recurring,Dorota Kishlovsky
+Michelle Trachtenberg,Georgina,3,Recurring,Georgina Sparks
+Margaret Colin,Eleanor,3,Recurring,Eleanor Waldorf-Rose
+Connor Paolo,Eric,3,Recurring,Eric van der Woodsen
+Robert John Burke,Bart,3,Guest,Bart Bass
+Sebastian Stan,Carter,3,Recurring,Carter Baizen
+Caroline Lagerfelt,CeCe,3,Recurring,"Celia ""CeCe"" Rhodes"
+Aaron Schwartz,Vanya,3,Recurring,Vanya
+Desmond Harrington,Jack,3,Recurring,Jack Bass
+Wallace Shawn,Cyrus,3,Guest,Cyrus Rose
+Chris Riggi,Scott,3,Recurring,Scott Rosson
+Kevin Zegers,Damian,3,Recurring,Damian Daalgard
+Hilary Duff,Olivia,3,Recurring,Olivia Burke
+William Baldwin,William,3,Recurring,William van der Woodsen
+Zuzanna Szadkowski,Dorota,4,Recurring,Dorota Kishlovsky
+Michelle Trachtenberg,Georgina,4,Recurring,Georgina Sparks
+Margaret Colin,Eleanor,4,Recurring,Eleanor Waldorf-Rose
+Connor Paolo,Eric,4,Recurring,Eric van der Woodsen
+Amanda Setton,Penelope,4,Recurring,Penelope Shafai
+Sam Robards,The Captain,4,Recurring,"Howard ""The Captain"" Archibald"
+Caroline Lagerfelt,CeCe,4,Guest,"Celia ""CeCe"" Rhodes"
+Aaron Schwartz,Vanya,4,Recurring,Vanya
+Desmond Harrington,Jack,4,Guest,Jack Bass
+Wallace Shawn,Cyrus,4,Guest,Cyrus Rose
+Sheila Kelley,Carol,4,Guest,Carol Rhodes
+Kevin Zegers,Damian,4,Recurring,Damian Daalgard
+William Baldwin,William,4,Guest,William van der Woodsen
+Azhy Robertson,Milo,4,Recurring,Milo Sparks
+Hugo Becker,Louis,4,Recurring,Louis Grimaldi
+Katie Cassidy,Juliet,4,Recurring,Juliet Sharp
+David Call,Ben,4,Recurring,Ben Donovan
+Michael Boatman,Russell,4,Recurring,Russell Thorpe
+Tika Sumpter,Raina,4,Recurring,Raina Thorpe
+Zuzanna Szadkowski,Dorota,5,Recurring,Dorota Kishlovsky
+Michelle Trachtenberg,Georgina,5,Recurring,Georgina Sparks
+Margaret Colin,Eleanor,5,Recurring,Eleanor Waldorf-Rose
+Amanda Setton,Penelope,5,Recurring,Penelope Shafai
+Robert John Burke,Bart,5,Guest,Bart Bass
+Caroline Lagerfelt,CeCe,5,Guest,"Celia ""CeCe"" Rhodes"
+Desmond Harrington,Jack,5,Recurring,Jack Bass
+Wallace Shawn,Cyrus,5,Guest,Cyrus Rose
+Sheila Kelley,Carol,5,Recurring,Carol Rhodes
+William Baldwin,William,5,Recurring,William van der Woodsen
+Azhy Robertson,Milo,5,Recurring,Milo Sparks
+Hugo Becker,Louis,5,Recurring,Louis Grimaldi
+Elizabeth Hurley,Diana,5,Recurring,Diana Payne
+Ella Rae Peck,Lola,5,Recurring,"Charlotte ""Lola"" Rhodes"
+Zuzanna Szadkowski,Dorota,6,Recurring,Dorota Kishlovsky
+Michelle Trachtenberg,Georgina,6,Recurring,Georgina Sparks
+Margaret Colin,Eleanor,6,Guest,Eleanor Waldorf-Rose
+Connor Paolo,Eric,6,Special Guest,Eric van der Woodsen
+Robert John Burke,Bart,6,Recurring,Bart Bass
+Yin Chang,Nelly,6,Recurring,Nelly Yuki
+Sam Robards,The Captain,6,Guest,"Howard ""The Captain"" Archibald"
+Desmond Harrington,Jack,6,Guest,Jack Bass
+Wallace Shawn,Cyrus,6,Guest,Cyrus Rose
+William Baldwin,William,6,Guest,William van der Woodsen
+Katie Cassidy,Juliet,6,Special Guest,Juliet Sharp
+Ella Rae Peck,Lola,6,Special Guest,"Charlotte ""Lola"" Rhodes"
+Barry Watson,Steven,6,Recurring,Steven Spence
+Sofia Black-D'Elia,Sage,6,Recurring,Sage Spence

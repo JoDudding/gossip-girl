@@ -14,7 +14,7 @@ source("scripts/_setup.r")
 #--- get the main characters in season 1 ---
 
 character_list <- readRDS("data/gg-cast-main.rds") |>
-  filter(season == "OG1") |>
+  filter(season == 1) |>
   pull(character)
 
 #--- read in the raw file ---
