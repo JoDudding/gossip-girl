@@ -30,3 +30,8 @@ source("scripts/create-table-metadata.r")
 #--- write to google sheets ---
 
 source("scripts/write-to-google-sheets.r")
+
+#--- update readme ---
+
+quarto::quarto_render("README.qmd")
+

@@ -19,7 +19,8 @@ get_metadata <- function(path) {
   x <- readRDS(path)
 
   tibble::tibble(
-    table = str_remove_all(path, "data/|\\.rds"),
+    table = str_remove_all(path, "data/|\\.rds") |> 
+      str_replace_all("-", "_"),
     variable = names(x)
   ) |>
     dplyr::mutate(
@@ -62,14 +63,26 @@ gg_metadata <- map_dfr(gg_tables, get_metadata) |>
       variable == "variable" ~ "Name of variable",
       variable == "class" ~ "Class of variable",
       variable == "description" ~ "Description of variable",
+      variable == "table_description" ~ "Description of what the table contains",
       TRUE ~ description
+    ),
+    table_description = case_when(
+      table == "gg_cast_main" ~ "Main characters in Gossip Girl and the actors that play them (Source: Wikipedia)",
+      table == "gg_cast_recurring" ~ "Recurring characters in Gossip Girl and the actors that play them (Source: Wikipedia)",
+      table == "gg_episodes" ~ "Episode names, directors, writers and viewership for Gossip Girl (Source: Wikipedia)",
+      table == "gg_metadata" ~ "Summary metadata for each Gossip Girl table saved",
+      table == "gg_pilot_token" ~ "Gossip Girl pilot transcript tokenised to word level (Source: gossipgirl.fandom.com)",
+      table == "gg_pilot" ~ "Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com)",
+      table == "gg_relationships" ~ "Relationships betwen Gossip Girl characters (Source: gossipgirl.fandom.com, seems to be missing some relationships)",
+      table == "gg_season_summary" ~ "Statistics on each Gossip Girl season (Source: Wikipedia)"
     )
-  )
+  ) |> 
+  select(table, table_description, variable, description, class)
 
 #--- check ---
 
 gg_metadata |>
-  select(-class) |>
+  select(-class, -table_description) |>
   print(n = 50)
 
 #--- save ---

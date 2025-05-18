@@ -30,7 +30,7 @@ readRDS("data/gg-relationships.rds") |>
 readRDS("data/gg-season-summary.rds") |> 
   sheet_write(
     "1wDTANHdBV6wMknnWzSC2ajtxuNmZuUhHrziACAEBTDQ",
-    sheet = "series-summary"
+    sheet = "season-summary"
   )
 
 #--- add main cast tab ---
@@ -57,3 +57,21 @@ readRDS("data/gg-pilot-token.rds") |>
     sheet = "pilot-transcript-words"
   )
 
+#--- add table metadata ---
+
+readRDS("data/gg-metadata.rds") |>
+  mutate(
+    table = case_match(
+      table,
+      "gg_relationships" ~ "relationships",
+      "gg_season_summary" ~ "season-summary",
+      "gg_cast_main" ~ "main-cast",
+      "gg_episodes" ~ "episodes",
+      "gg_pilot_token" ~ "pilot-transcript-words"
+    )
+  ) |> 
+  filter(! is.na(table)) |> 
+  sheet_write(
+    "1wDTANHdBV6wMknnWzSC2ajtxuNmZuUhHrziACAEBTDQ",
+    sheet = "table-metadata"
+  )

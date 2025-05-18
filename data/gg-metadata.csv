@@ -1,45 +1,46 @@
-table,variable,class,description
-gg-cast-main,actor,character,Actor name
-gg-cast-main,character,character,Character name
-gg-cast-main,season,character,Season number
-gg-cast-main,cast_type,character,"Character is main, recurring, etc"
-gg-cast-main,character_full,character,Full name of character
-gg-cast-recurring,actor,character,Actor name
-gg-cast-recurring,character,character,Character name
-gg-cast-recurring,season,character,Season number
-gg-cast-recurring,cast_type,character,"Character is main, recurring, etc"
-gg-cast-recurring,character_full,character,Full name of character
-gg-episodes,season,integer,Season number
-gg-episodes,no_overall,integer,Episode number counting over all seasons
-gg-episodes,episode,integer,Episode number
-gg-episodes,title,integer,Episode title
-gg-episodes,directed_by,integer,Director name
-gg-episodes,written_by,integer,Writer of episode
-gg-episodes,original_release_date,integer,Original release date of episode
-gg-episodes,us_viewers_millions,integer,US viewership (millions)
-gg-metadata,table,character,Name of table
-gg-metadata,variable,character,Name of variable
-gg-metadata,class,character,Class of variable
-gg-metadata,description,character,Description of variable
-gg-pilot-token,main_character,logical,Person speaking is a main character
-gg-pilot-token,character,logical,Character name
-gg-pilot-token,line_no,logical,Line number in pilot transcript
-gg-pilot-token,line_type,logical,"Line was spoken, voice over or direction"
-gg-pilot-token,word,logical,Word spoken in the pilot transcript
-gg-pilot-token,main_character_word,logical,Word is a main character name
-gg-pilot,line,character,Text of line in pilot transcript
-gg-pilot,season,character,Season number
-gg-pilot,episode,character,Episode number
-gg-pilot,line_no,character,Line number in pilot transcript
-gg-pilot,line_type,character,"Line was spoken, voice over or direction"
-gg-pilot,character,character,Character name
-gg-pilot,direction,character,Direction for actors in pilot transcript
-gg-pilot,location,character,Location line was spoken in the pilot transcript
-gg-pilot,main_character,character,Person speaking is a main character
-gg-relationships,character,character,Character name
-gg-relationships,relationship_id,character,Unique ID for the relationship
-gg-season-summary,season,integer,Season number
-gg-season-summary,episodes,integer,Number of episodes in series
-gg-season-summary,first_released,integer,Date season first released
-gg-season-summary,last_released,integer,Date season last released
-gg-season-summary,average_viewership_in_millions,integer,Average US viewership (millions)
+table,table_description,variable,description,class
+gg_cast_main,Main characters in Gossip Girl and the actors that play them (Source: Wikipedia),actor,Actor name,character
+gg_cast_main,Main characters in Gossip Girl and the actors that play them (Source: Wikipedia),character,Character name,character
+gg_cast_main,Main characters in Gossip Girl and the actors that play them (Source: Wikipedia),season,Season number,character
+gg_cast_main,Main characters in Gossip Girl and the actors that play them (Source: Wikipedia),cast_type,"Character is main, recurring, etc",character
+gg_cast_main,Main characters in Gossip Girl and the actors that play them (Source: Wikipedia),character_full,Full name of character,character
+gg_cast_recurring,Recurring characters in Gossip Girl and the actors that play them (Source: Wikipedia),actor,Actor name,character
+gg_cast_recurring,Recurring characters in Gossip Girl and the actors that play them (Source: Wikipedia),character,Character name,character
+gg_cast_recurring,Recurring characters in Gossip Girl and the actors that play them (Source: Wikipedia),season,Season number,character
+gg_cast_recurring,Recurring characters in Gossip Girl and the actors that play them (Source: Wikipedia),cast_type,"Character is main, recurring, etc",character
+gg_cast_recurring,Recurring characters in Gossip Girl and the actors that play them (Source: Wikipedia),character_full,Full name of character,character
+gg_episodes,"Episode names, directors, writers and viewership for Gossip Girl (Source: Wikipedia)",season,Season number,integer
+gg_episodes,"Episode names, directors, writers and viewership for Gossip Girl (Source: Wikipedia)",no_overall,Episode number counting over all seasons,integer
+gg_episodes,"Episode names, directors, writers and viewership for Gossip Girl (Source: Wikipedia)",episode,Episode number,integer
+gg_episodes,"Episode names, directors, writers and viewership for Gossip Girl (Source: Wikipedia)",title,Episode title,integer
+gg_episodes,"Episode names, directors, writers and viewership for Gossip Girl (Source: Wikipedia)",directed_by,Director name,integer
+gg_episodes,"Episode names, directors, writers and viewership for Gossip Girl (Source: Wikipedia)",written_by,Writer of episode,integer
+gg_episodes,"Episode names, directors, writers and viewership for Gossip Girl (Source: Wikipedia)",original_release_date,Original release date of episode,integer
+gg_episodes,"Episode names, directors, writers and viewership for Gossip Girl (Source: Wikipedia)",us_viewers_millions,US viewership (millions),integer
+gg_metadata,Summary metadata for each Gossip Girl table saved,table,Name of table,character
+gg_metadata,Summary metadata for each Gossip Girl table saved,table_description,Description of what the table contains,character
+gg_metadata,Summary metadata for each Gossip Girl table saved,variable,Name of variable,character
+gg_metadata,Summary metadata for each Gossip Girl table saved,description,Description of variable,character
+gg_metadata,Summary metadata for each Gossip Girl table saved,class,Class of variable,character
+gg_pilot_token,Gossip Girl pilot transcript tokenised to word level (Source: gossipgirl.fandom.com),main_character,Person speaking is a main character,logical
+gg_pilot_token,Gossip Girl pilot transcript tokenised to word level (Source: gossipgirl.fandom.com),character,Character name,logical
+gg_pilot_token,Gossip Girl pilot transcript tokenised to word level (Source: gossipgirl.fandom.com),line_no,Line number in pilot transcript,logical
+gg_pilot_token,Gossip Girl pilot transcript tokenised to word level (Source: gossipgirl.fandom.com),line_type,"Line was spoken, voice over or direction",logical
+gg_pilot_token,Gossip Girl pilot transcript tokenised to word level (Source: gossipgirl.fandom.com),word,Word spoken in the pilot transcript,logical
+gg_pilot_token,Gossip Girl pilot transcript tokenised to word level (Source: gossipgirl.fandom.com),main_character_word,Word is a main character name,logical
+gg_pilot,Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com),line,Text of line in pilot transcript,character
+gg_pilot,Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com),season,Season number,character
+gg_pilot,Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com),episode,Episode number,character
+gg_pilot,Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com),line_no,Line number in pilot transcript,character
+gg_pilot,Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com),line_type,"Line was spoken, voice over or direction",character
+gg_pilot,Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com),character,Character name,character
+gg_pilot,Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com),direction,Direction for actors in pilot transcript,character
+gg_pilot,Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com),location,Location line was spoken in the pilot transcript,character
+gg_pilot,Text from the Gossip Girl pilot transcript with the characters speaking each line (Source: gossipgirl.fandom.com),main_character,Person speaking is a main character,character
+gg_relationships,"Relationships betwen Gossip Girl characters (Source: gossipgirl.fandom.com, seems to be missing some relationships)",character,Character name,character
+gg_relationships,"Relationships betwen Gossip Girl characters (Source: gossipgirl.fandom.com, seems to be missing some relationships)",relationship_id,Unique ID for the relationship,character
+gg_season_summary,Statistics on each Gossip Girl season (Source: Wikipedia),season,Season number,integer
+gg_season_summary,Statistics on each Gossip Girl season (Source: Wikipedia),episodes,Number of episodes in series,integer
+gg_season_summary,Statistics on each Gossip Girl season (Source: Wikipedia),first_released,Date season first released,integer
+gg_season_summary,Statistics on each Gossip Girl season (Source: Wikipedia),last_released,Date season last released,integer
+gg_season_summary,Statistics on each Gossip Girl season (Source: Wikipedia),average_viewership_in_millions,Average US viewership (millions),integer

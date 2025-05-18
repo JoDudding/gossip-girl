@@ -1,0 +1,69 @@
+---
+title: "gossip-girl"
+format: gfm
+---
+
+![](https://img.shields.io/badge/XOXO-done-B40411?style=for-the-badge&labelColor=black
+)
+
+![](assets/Gossip_Girl_season_3_DVD.png)
+![](assets/Gossip_Girl_season_4_DVD.png)
+
+Data on the Gossip Girl TV series
+
+Sourced from [Wikipedia](https://en.wikipedia.org/wiki/Gossip_Girl) and 
+[gossipgirl.fandom.com](https://gossipgirl.fandom.com/wiki/Gossip_Girl_Wiki)
+
+The purpose of this exercise is to provide some fun data for my niece to use when 
+learning Excel. [Click here to see a google sheets view](https://docs.google.com/spreadsheets/d/1wDTANHdBV6wMknnWzSC2ajtxuNmZuUhHrziACAEBTDQ/edit?usp=sharing)
+
+If I can source some relationship information I can play with some network analysis, 
+and some transcript information for text analysis using 
+[{tidytext}](https://juliasilge.github.io/tidytext/).
+
+# Tables
+
+```{r}
+#| results: asis
+#| echo: false
+#| warning: false
+
+metadata <- readRDS("data/gg-metadata.rds")
+
+md_tables <- unique(metadata$table)
+
+table_print <- function(x) {
+  
+  cat(paste("##", x, "\n\n"))
+
+  metadata |> 
+    dplyr::filter(table == x) |> 
+    dplyr::transmute(table_description = paste(table_description, "\n")) |> 
+    dplyr::distinct() |> 
+    dplyr::pull() |> 
+    cat()
+  
+  metadata |> 
+    dplyr::filter(table == x) |> 
+    dplyr::select(-table, -table_description) |> 
+    knitr::kable() |> 
+    print()
+}
+
+purrr::walk(md_tables, table_print)
+
+```
+
+XOXO
+
+# Viewership
+
+![](charts/viewership-bar.png)
+
+![](charts/viewership-line.png)
+
+# Analysis of pilot transcript
+
+![](charts/gg-pilot-speaking-about.png)
+
+![](charts/gg-pilot-sentiment.png)
