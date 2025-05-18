@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
-#' pilot-transcript-analysis.r
-cli::cli_h1("pilot-transcript-analysis.r")
+#' pilot-transcipt-analysis.r
+cli::cli_h1("pilot-transcipt-analysis.r")
 #-------------------------------------------------------------------------------
 #' jo dudding
 #' May 2025
@@ -11,38 +11,50 @@ cli::cli_h1("pilot-transcript-analysis.r")
 
 source("scripts/_setup.r")
 
-pilot_caption <- "Source: gossipgirl.fandom.com"
+#--- get the main characters in season 1 ---
 
-#--- read token file ---
+character_list <- readRDS("data/gg-cast-main.rds") |> 
+  filter(season == "orig_1") |> 
+  select(character, character_nickname) |> 
+  print() |> 
+  pull(character_nickname)
 
-gg_pilot_token <- readRDS("data/gg-pilot-token.rds")
+#--- read files ---
 
-log_obj("gg_pilot_token")
+gg_pilot <- readRDS("data/gg-pilot.rds") |> 
+  mutate(main_character = character %in% character_list)
+
+gg_pilot_token <- readRDS("data/gg-pilot-token.rds")|> 
+  mutate(
+    main_character = character %in% character_list,
+    main_character_word = case_when(
+      word %in% str_to_lower(character_list) ~ TRUE,
+      word == 'gossip' & lead(word) == 'girl' & line_no == lead(line_no) ~ TRUE,
+      ! (lag(word) == 'gossip' & word == 'girl' & line_no == lag(line_no)) ~ FALSE
+    )
+  )
 
 #--- most common words ---
 
 gg_pilot_token |>
-  filter(!main_character_word) |>
+  filter(! is.na(main_character_word) & ! main_character_word) |> 
   count(word, sort = TRUE) |>
   slice(1:25) |>
   mutate(word = fct_rev(fct_inorder(word))) |>
   ggplot(aes(n, word)) +
   geom_col() +
-  scale_x_continuous(expand = c(0, 0.05)) +
   labs(
     x = NULL, y = NULL,
     title = "Top 25 words in Gossip Girl pilot transcript",
-    subtitle = "Excluding main character names",
-    caption = pilot_caption
+    subtitle = "Excluding main character names"
   )
 
-gg_save("gg-most-common-words")
+gg_save('gg-most-common-words')
 
 #--- who talks the most ---
 
 gg_pilot_token |>
-  filter(main_character) |>
-  filter(!main_character_word) |>
+  filter(main_character) |> 
   group_by(character) |>
   count(word, sort = TRUE) |>
   summarise(
@@ -57,34 +69,32 @@ gg_pilot_token |>
 #--- who are they talking about ---
 
 gg_pilot_token |>
-  filter(main_character) |>
-  filter(main_character_word) |>
-  count(character, word) |>
-  mutate(
-    word = str_to_title(word) |>
-      fct_inorder() |>
-      fct_relevel("Gossip Girl"),
-    character = fct_inorder(character) |>
-      fct_relevel("Gossip Girl") |>
-      fct_rev()
-  ) |>
-  ggplot(aes(word, character, fill = n, label = n)) +
+  filter(
+    main_character,
+    ! is.na(main_character_word),
+    main_character_word
+  ) |> 
+  count(
+    character,
+    word = case_when(
+      word == "gossip" ~ "Gossip Girl",
+      TRUE ~ str_to_sentence(word)
+    )
+  ) |> 
+  ggplot(aes(word, fct_rev(character), fill = n, label = n)) +
   geom_tile() +
   geom_text(colour = "white") +
-  scale_x_discrete(position = "top", label = label_wrap(8)) +
-  scale_y_discrete(label = label_wrap(8)) +
+  scale_x_discrete(position = "top") +
   scale_fill_gradient(low = gg_palette$grey, high = gg_palette$red) +
   labs(
-    x = "Spoken about",
-    y = "Speaking",
+    x = 'Spoken about',
+    y = 'Speaking',
     fill = NULL,
-    title = "Everyone is talking about Serena",
-    subtitle = "Who is speaking about who in the pilot?",
-    caption = pilot_caption
+    title = 'Who is talking about who in the pilot?'
   ) +
-  guides(fill = "none")
+  theme(axis.ticks = element_blank())
 
-gg_save("gg-pilot-speaking-about")
+gg_save('gg-pilot-speaking-about')
 
 #--- sentiment analysis ---
 
@@ -134,7 +144,7 @@ gg_pilot_token |>
     x = "Net sentiment percent",
     y = NULL,
     title = "Net sentiment by character in pilot",
-    caption = pilot_caption
+    caption = "Source: gossipgirl.fandom.com"
   )
 
-gg_save("gg-pilot-sentiment")
+gg_save('gg-pilot-sentiment')

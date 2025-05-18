@@ -61,10 +61,10 @@ systemfonts::register_variant(
   weight = 'light'
 )
 
-base_size <- 6
+base_size <- 5
 
 theme_set(
-  theme_minimal(base_family = "Roboto-Thin", base_size = base_size) +
+  theme_minimal(base_family = "Roboto", base_size = base_size) +
     theme(
       plot.title.position = "plot",
       plot.caption.position = "plot",
@@ -80,7 +80,7 @@ update_geom_defaults("line", aes(colour = gg_palette$blue, linewidth = 1))
 update_geom_defaults("segment", aes(colour = gg_palette$blue))
 update_geom_defaults("point", aes(colour = gg_palette$blue, size = 2))
 update_geom_defaults("text", aes(
-  family = "Roboto-Thin", colour = gg_palette$black,
+  family = "Roboto", colour = gg_palette$black,
   size = base_size / .pt * 0.8
 ))
 

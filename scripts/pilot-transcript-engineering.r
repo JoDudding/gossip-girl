@@ -11,6 +11,12 @@ cli::cli_h1("pilot-transcript-engineering.r")
 
 source("scripts/_setup.r")
 
+#--- get the main characters in season 1 ---
+
+character_list <- readRDS("data/gg-cast-main.rds") |>
+  filter(season == "orig_1") |>
+  pull(character_nickname)
+
 #--- read in the raw file ---
 
 gg_pilot_raw <- tibble(
@@ -111,10 +117,18 @@ gg_pilot <- bind_rows(
   tidy_directions_rest,
   tidy_directions_location
 ) |>
+  # flag if the line is for a main character
+  mutate(
+  main_character = character %in% character_list
+  ) |> 
   arrange(line_no) |>
   fill(location)
 
 log_obj("gg_pilot")
+
+gg_pilot |> 
+  filter(main_character) |> 
+  count(character)
 
 #--- save ---
 
@@ -126,11 +140,46 @@ data(stop_words)
 
 gg_pilot_token <- gg_pilot |>
   filter(!is.na(line)) |>
-  select(character, contains("line")) |>
+  # gossip girl uses initials when referring to people - replace with their names
+  mutate(
+    line = str_replace_all(line, "\\sB(?=(\\s|'|\\.|\\?))", " Blair") |> 
+      str_replace_all("\\sS(?=(\\s|'|\\.|\\?))", " Serena") |> 
+      str_replace_all("\\sJ(en)?(?=(\\s|'|\\.|\\?))", " Jenny") |> 
+      str_replace_all("\\sN(?=(\\s|'|\\.|\\?))", " Nate") |> 
+      str_replace_all("\\sC(?=(\\s|'|\\.|\\?))", " Chuck") |> 
+      str_replace_all("\\sD(?=(\\s|'|\\.|\\?))", " Dan") |> 
+      str_replace_all("\\sR(?=(\\s|'|\\.|\\?))", " Rufus") |> 
+      str_replace_all("\\sL(?=(\\s|'|\\.|\\?))", " Lily")
+  ) |> 
+  select(main_character, character, contains("line")) |>
   unnest_tokens(word, line) |>
+  mutate(
+    word = if_else(
+      word == "gossip" & lead(word) == "girl" & line_no == lead(line_no),
+      "gossip girl",
+      word
+    ) |> 
+      str_remove_all("'s"),
+    main_character_word = word %in% str_to_lower(character_list)
+  ) |>
+  filter(
+    !(lag(word) == "gossip girl" & word == "girl" & line_no == lag(line_no))
+  ) |> 
   anti_join(stop_words, by = "word")
 
 log_obj("gg_pilot_token")
+
+gg_pilot_token |> 
+  filter(main_character_word) |> 
+  count(word) |> 
+  mutate(tot_n = sum(n), pct = n / sum(n))
+
+
+gg_pilot_token |> 
+  filter(str_detect(word, "blair")) |> 
+  count(word) |> 
+  print() |> 
+  mutate(fixed = str_remove_all(word, "'s"))
 
 #--- save ---
 
