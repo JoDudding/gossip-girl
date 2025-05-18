@@ -22,8 +22,8 @@ Tables
 
 - [x] Cast
 - [ ] Episodes
-- [ ] Ratings
-- [ ] Relationships
+- [x] Ratings
+- [x] Relationships
 - [x] Pilot transcript
 
 

@@ -14,8 +14,8 @@ source("scripts/_setup.r")
 #--- get the main characters in season 1 ---
 
 character_list <- readRDS("data/gg-cast-main.rds") |>
-  filter(season == "orig_1") |>
-  pull(character_nickname)
+  filter(season == "OG1") |>
+  pull(character)
 
 #--- read in the raw file ---
 
@@ -173,13 +173,6 @@ gg_pilot_token |>
   filter(main_character_word) |> 
   count(word) |> 
   mutate(tot_n = sum(n), pct = n / sum(n))
-
-
-gg_pilot_token |> 
-  filter(str_detect(word, "blair")) |> 
-  count(word) |> 
-  print() |> 
-  mutate(fixed = str_remove_all(word, "'s"))
 
 #--- save ---
 

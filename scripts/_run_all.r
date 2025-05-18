@@ -12,6 +12,12 @@ source("scripts/data-engineering.r")
 
 #--- pilot transcript ---
 
-source("scripts/pilot-transcipt-engineering.r")
+source("scripts/pilot-transcript-engineering.r")
 
-source("scripts/pilot-transcipt-analysis.r")
+source("scripts/pilot-transcript-analysis.r")
+
+#--- relationships ---
+
+source("scripts/relationships-analysis.r")
+
+
